@@ -1,0 +1,89 @@
+{
+  "n_seqs": 16,
+  "seq_len": 256,
+  "seed": 20261014,
+  "batch_size": 1,
+  "source": "HuggingFaceFW/fineweb-edu sample/10BT/000_00000.parquet (row group 0 via HTTP range requests; 60 docs cached)",
+  "sequences": [
+    {
+      "doc_row": 7,
+      "n_tokens_doc": 488,
+      "ascii_frac": 1.0
+    },
+    {
+      "doc_row": 39,
+      "n_tokens_doc": 2217,
+      "ascii_frac": 0.9901
+    },
+    {
+      "doc_row": 22,
+      "n_tokens_doc": 857,
+      "ascii_frac": 1.0
+    },
+    {
+      "doc_row": 41,
+      "n_tokens_doc": 2909,
+      "ascii_frac": 1.0
+    },
+    {
+      "doc_row": 11,
+      "n_tokens_doc": 502,
+      "ascii_frac": 1.0
+    },
+    {
+      "doc_row": 51,
+      "n_tokens_doc": 537,
+      "ascii_frac": 0.9972
+    },
+    {
+      "doc_row": 28,
+      "n_tokens_doc": 2148,
+      "ascii_frac": 0.9998
+    },
+    {
+      "doc_row": 14,
+      "n_tokens_doc": 1285,
+      "ascii_frac": 0.9965
+    },
+    {
+      "doc_row": 16,
+      "n_tokens_doc": 627,
+      "ascii_frac": 0.9944
+    },
+    {
+      "doc_row": 18,
+      "n_tokens_doc": 280,
+      "ascii_frac": 1.0
+    },
+    {
+      "doc_row": 46,
+      "n_tokens_doc": 1782,
+      "ascii_frac": 0.9946
+    },
+    {
+      "doc_row": 32,
+      "n_tokens_doc": 925,
+      "ascii_frac": 0.9995
+    },
+    {
+      "doc_row": 8,
+      "n_tokens_doc": 612,
+      "ascii_frac": 0.9947
+    },
+    {
+      "doc_row": 38,
+      "n_tokens_doc": 512,
+      "ascii_frac": 0.9985
+    },
+    {
+      "doc_row": 59,
+      "n_tokens_doc": 838,
+      "ascii_frac": 1.0
+    },
+    {
+      "doc_row": 43,
+      "n_tokens_doc": 274,
+      "ascii_frac": 0.9924
+    }
+  ]
+}

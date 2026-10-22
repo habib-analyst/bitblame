@@ -1,0 +1,49 @@
+{
+  "llama_cpp_rev": "fcac190",
+  "recipe_alloc": {
+    "embed": "Q5_K",
+    "blk.29": "Q6_K",
+    "blk.28": "Q6_K",
+    "blk.27": "Q5_K",
+    "blk.26": "Q2_K",
+    "blk.25": "Q2_K",
+    "blk.24": "Q2_K",
+    "blk.23": "Q5_K",
+    "blk.22": "Q4_K",
+    "blk.21": "Q4_K",
+    "blk.20": "Q4_K",
+    "blk.19": "Q5_K",
+    "blk.18": "Q5_K",
+    "blk.17": "Q2_K",
+    "blk.16": "Q4_K",
+    "blk.15": "Q4_K",
+    "blk.14": "Q2_K",
+    "blk.13": "Q2_K",
+    "blk.12": "Q4_K",
+    "blk.11": "Q8_0",
+    "blk.10": "Q2_K",
+    "blk.9": "Q5_K",
+    "blk.8": "Q2_K",
+    "blk.7": "Q2_K",
+    "blk.6": "Q2_K",
+    "blk.5": "Q2_K",
+    "blk.4": "Q2_K",
+    "blk.3": "Q4_K",
+    "blk.2": "Q6_K",
+    "blk.1": "Q4_K",
+    "blk.0": "Q5_K"
+  },
+  "tensors_checked": 272,
+  "artifacts": {
+    "f16": "/home/hatch/workspace/bitblame/data/models/SmolLM2-135M-f16.gguf",
+    "q4km": "/home/hatch/workspace/bitblame/data/models/SmolLM2-135M-q4km.gguf",
+    "recipe": "/home/hatch/workspace/bitblame/data/models/SmolLM2-135M-recipe.gguf"
+  },
+  "tensor_type_mismatches": [],
+  "verification": "gguf_header_read (src/bitblame/gguf.py) + full type simulation (optimizer.predict_file_types); llama-gguf r self-test NOT used (it asserts data[0]==100.0 on any real file)",
+  "sizes": {
+    "f16": 270885376,
+    "q4km": 105453856,
+    "recipe": 94373920
+  }
+}

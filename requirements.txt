@@ -1,0 +1,9 @@
+# BitBlame dependencies.
+# CPU-friendly pins. Install CPU-only torch with:
+#   pip install -r requirements.txt --index-url https://download.pytorch.org/whl/cpu
+torch>=2.4.0
+transformers>=4.44.0
+datasets>=2.20.0
+numpy>=1.26.0
+scipy>=1.13.0
+matplotlib>=3.8.0

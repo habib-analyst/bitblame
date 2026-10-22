@@ -1,0 +1,1657 @@
+[
+  {
+    "id": "mmlu/machine_learning/3",
+    "category": "mmlu",
+    "gold": "D",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/high_school_world_history/8",
+    "category": "mmlu",
+    "gold": "C",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/jurisprudence/68",
+    "category": "mmlu",
+    "gold": "B",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/high_school_european_history/78",
+    "category": "mmlu",
+    "gold": "A",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/nutrition/241",
+    "category": "mmlu",
+    "gold": "C",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/college_mathematics/36",
+    "category": "mmlu",
+    "gold": "A",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/astronomy/144",
+    "category": "mmlu",
+    "gold": "B",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/jurisprudence/62",
+    "category": "mmlu",
+    "gold": "A",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/clinical_knowledge/150",
+    "category": "mmlu",
+    "gold": "D",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/human_aging/68",
+    "category": "mmlu",
+    "gold": "D",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/high_school_european_history/27",
+    "category": "mmlu",
+    "gold": "A",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/electrical_engineering/31",
+    "category": "mmlu",
+    "gold": "A",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/logical_fallacies/69",
+    "category": "mmlu",
+    "gold": "C",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/high_school_biology/266",
+    "category": "mmlu",
+    "gold": "A",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/high_school_computer_science/58",
+    "category": "mmlu",
+    "gold": "C",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/college_medicine/138",
+    "category": "mmlu",
+    "gold": "B",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/high_school_computer_science/86",
+    "category": "mmlu",
+    "gold": "B",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/anatomy/63",
+    "category": "mmlu",
+    "gold": "C",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/marketing/111",
+    "category": "mmlu",
+    "gold": "B",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/college_physics/77",
+    "category": "mmlu",
+    "gold": "D",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/human_sexuality/105",
+    "category": "mmlu",
+    "gold": "B",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/formal_logic/41",
+    "category": "mmlu",
+    "gold": "A",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/high_school_geography/178",
+    "category": "mmlu",
+    "gold": "B",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/nutrition/276",
+    "category": "mmlu",
+    "gold": "D",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/abstract_algebra/66",
+    "category": "mmlu",
+    "gold": "D",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/high_school_macroeconomics/261",
+    "category": "mmlu",
+    "gold": "D",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/medical_genetics/70",
+    "category": "mmlu",
+    "gold": "B",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/econometrics/104",
+    "category": "mmlu",
+    "gold": "D",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/electrical_engineering/122",
+    "category": "mmlu",
+    "gold": "D",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/security_studies/167",
+    "category": "mmlu",
+    "gold": "B",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/human_aging/40",
+    "category": "mmlu",
+    "gold": "B",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/professional_medicine/187",
+    "category": "mmlu",
+    "gold": "B",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/philosophy/96",
+    "category": "mmlu",
+    "gold": "C",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/high_school_us_history/94",
+    "category": "mmlu",
+    "gold": "C",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/clinical_knowledge/135",
+    "category": "mmlu",
+    "gold": "C",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/college_mathematics/21",
+    "category": "mmlu",
+    "gold": "D",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/global_facts/59",
+    "category": "mmlu",
+    "gold": "B",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/college_chemistry/35",
+    "category": "mmlu",
+    "gold": "C",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/sociology/42",
+    "category": "mmlu",
+    "gold": "C",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/college_computer_science/49",
+    "category": "mmlu",
+    "gold": "D",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/virology/157",
+    "category": "mmlu",
+    "gold": "A",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/world_religions/136",
+    "category": "mmlu",
+    "gold": "A",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/high_school_government_and_politics/123",
+    "category": "mmlu",
+    "gold": "D",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/sociology/66",
+    "category": "mmlu",
+    "gold": "D",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/public_relations/40",
+    "category": "mmlu",
+    "gold": "C",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/high_school_biology/59",
+    "category": "mmlu",
+    "gold": "D",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/astronomy/132",
+    "category": "mmlu",
+    "gold": "C",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/college_biology/77",
+    "category": "mmlu",
+    "gold": "A",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/international_law/111",
+    "category": "mmlu",
+    "gold": "B",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/high_school_physics/31",
+    "category": "mmlu",
+    "gold": "C",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/anatomy/22",
+    "category": "mmlu",
+    "gold": "B",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/high_school_chemistry/161",
+    "category": "mmlu",
+    "gold": "C",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/computer_security/63",
+    "category": "mmlu",
+    "gold": "D",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/high_school_psychology/425",
+    "category": "mmlu",
+    "gold": "B",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/high_school_government_and_politics/143",
+    "category": "mmlu",
+    "gold": "A",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/high_school_world_history/79",
+    "category": "mmlu",
+    "gold": "B",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/professional_law/796",
+    "category": "mmlu",
+    "gold": "A",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/moral_scenarios/393",
+    "category": "mmlu",
+    "gold": "C",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/high_school_physics/35",
+    "category": "mmlu",
+    "gold": "C",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/college_physics/12",
+    "category": "mmlu",
+    "gold": "D",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/high_school_mathematics/74",
+    "category": "mmlu",
+    "gold": "B",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/college_medicine/85",
+    "category": "mmlu",
+    "gold": "B",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/business_ethics/34",
+    "category": "mmlu",
+    "gold": "D",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/high_school_statistics/147",
+    "category": "mmlu",
+    "gold": "C",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/marketing/71",
+    "category": "mmlu",
+    "gold": "C",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/medical_genetics/65",
+    "category": "mmlu",
+    "gold": "A",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/college_chemistry/45",
+    "category": "mmlu",
+    "gold": "A",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/professional_medicine/98",
+    "category": "mmlu",
+    "gold": "D",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/professional_law/1360",
+    "category": "mmlu",
+    "gold": "B",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/conceptual_physics/114",
+    "category": "mmlu",
+    "gold": "B",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/conceptual_physics/208",
+    "category": "mmlu",
+    "gold": "B",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/formal_logic/112",
+    "category": "mmlu",
+    "gold": "A",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/miscellaneous/542",
+    "category": "mmlu",
+    "gold": "C",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/high_school_statistics/40",
+    "category": "mmlu",
+    "gold": "D",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/moral_disputes/170",
+    "category": "mmlu",
+    "gold": "A",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/management/7",
+    "category": "mmlu",
+    "gold": "D",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/security_studies/81",
+    "category": "mmlu",
+    "gold": "B",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/elementary_mathematics/277",
+    "category": "mmlu",
+    "gold": "C",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/high_school_mathematics/136",
+    "category": "mmlu",
+    "gold": "B",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/professional_accounting/150",
+    "category": "mmlu",
+    "gold": "A",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/high_school_microeconomics/199",
+    "category": "mmlu",
+    "gold": "D",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/philosophy/9",
+    "category": "mmlu",
+    "gold": "B",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/miscellaneous/212",
+    "category": "mmlu",
+    "gold": "B",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/professional_psychology/279",
+    "category": "mmlu",
+    "gold": "C",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/human_sexuality/54",
+    "category": "mmlu",
+    "gold": "D",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/business_ethics/59",
+    "category": "mmlu",
+    "gold": "D",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/international_law/44",
+    "category": "mmlu",
+    "gold": "C",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/college_computer_science/80",
+    "category": "mmlu",
+    "gold": "B",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/virology/165",
+    "category": "mmlu",
+    "gold": "B",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/professional_psychology/39",
+    "category": "mmlu",
+    "gold": "A",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/high_school_microeconomics/101",
+    "category": "mmlu",
+    "gold": "B",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/us_foreign_policy/4",
+    "category": "mmlu",
+    "gold": "D",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/world_religions/46",
+    "category": "mmlu",
+    "gold": "A",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/public_relations/43",
+    "category": "mmlu",
+    "gold": "A",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/moral_disputes/115",
+    "category": "mmlu",
+    "gold": "C",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/high_school_geography/192",
+    "category": "mmlu",
+    "gold": "C",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/prehistory/208",
+    "category": "mmlu",
+    "gold": "C",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/college_biology/104",
+    "category": "mmlu",
+    "gold": "D",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/global_facts/65",
+    "category": "mmlu",
+    "gold": "C",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "mmlu/moral_scenarios/721",
+    "category": "mmlu",
+    "gold": "D",
+    "max_new_tokens": 8
+  },
+  {
+    "id": "gsm8k/1153",
+    "category": "gsm8k",
+    "gold": "20",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/1144",
+    "category": "gsm8k",
+    "gold": "34",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/486",
+    "category": "gsm8k",
+    "gold": "6",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/530",
+    "category": "gsm8k",
+    "gold": "36",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/167",
+    "category": "gsm8k",
+    "gold": "16",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/800",
+    "category": "gsm8k",
+    "gold": "428",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/1194",
+    "category": "gsm8k",
+    "gold": "1200",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/527",
+    "category": "gsm8k",
+    "gold": "48",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/446",
+    "category": "gsm8k",
+    "gold": "2",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/1263",
+    "category": "gsm8k",
+    "gold": "500",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/514",
+    "category": "gsm8k",
+    "gold": "90000",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/589",
+    "category": "gsm8k",
+    "gold": "15",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/785",
+    "category": "gsm8k",
+    "gold": "155",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/788",
+    "category": "gsm8k",
+    "gold": "100",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/1045",
+    "category": "gsm8k",
+    "gold": "420",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/930",
+    "category": "gsm8k",
+    "gold": "14",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/34",
+    "category": "gsm8k",
+    "gold": "23",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/346",
+    "category": "gsm8k",
+    "gold": "9",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/1057",
+    "category": "gsm8k",
+    "gold": "24",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/683",
+    "category": "gsm8k",
+    "gold": "50",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/1013",
+    "category": "gsm8k",
+    "gold": "2",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/46",
+    "category": "gsm8k",
+    "gold": "163",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/610",
+    "category": "gsm8k",
+    "gold": "65960",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/640",
+    "category": "gsm8k",
+    "gold": "43500",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/1024",
+    "category": "gsm8k",
+    "gold": "300",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/737",
+    "category": "gsm8k",
+    "gold": "2",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/198",
+    "category": "gsm8k",
+    "gold": "320",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/578",
+    "category": "gsm8k",
+    "gold": "48",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/682",
+    "category": "gsm8k",
+    "gold": "80",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/125",
+    "category": "gsm8k",
+    "gold": "10",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/1131",
+    "category": "gsm8k",
+    "gold": "96",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/1076",
+    "category": "gsm8k",
+    "gold": "162",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/987",
+    "category": "gsm8k",
+    "gold": "3",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/1010",
+    "category": "gsm8k",
+    "gold": "5",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/675",
+    "category": "gsm8k",
+    "gold": "33",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/1261",
+    "category": "gsm8k",
+    "gold": "235",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/369",
+    "category": "gsm8k",
+    "gold": "1198",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/815",
+    "category": "gsm8k",
+    "gold": "4",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/712",
+    "category": "gsm8k",
+    "gold": "14",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/445",
+    "category": "gsm8k",
+    "gold": "6",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/72",
+    "category": "gsm8k",
+    "gold": "221",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/647",
+    "category": "gsm8k",
+    "gold": "10",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/842",
+    "category": "gsm8k",
+    "gold": "10",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/1025",
+    "category": "gsm8k",
+    "gold": "30",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/96",
+    "category": "gsm8k",
+    "gold": "3",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/531",
+    "category": "gsm8k",
+    "gold": "66",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/671",
+    "category": "gsm8k",
+    "gold": "4",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/115",
+    "category": "gsm8k",
+    "gold": "90",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/953",
+    "category": "gsm8k",
+    "gold": "452",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/462",
+    "category": "gsm8k",
+    "gold": "71",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/958",
+    "category": "gsm8k",
+    "gold": "40",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/483",
+    "category": "gsm8k",
+    "gold": "40",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/1267",
+    "category": "gsm8k",
+    "gold": "40",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/162",
+    "category": "gsm8k",
+    "gold": "92",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/1290",
+    "category": "gsm8k",
+    "gold": "90",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/153",
+    "category": "gsm8k",
+    "gold": "48",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/1037",
+    "category": "gsm8k",
+    "gold": "10",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/430",
+    "category": "gsm8k",
+    "gold": "132",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/1164",
+    "category": "gsm8k",
+    "gold": "9",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "gsm8k/252",
+    "category": "gsm8k",
+    "gold": "73",
+    "max_new_tokens": 160
+  },
+  {
+    "id": "humaneval/HumanEval/98",
+    "category": "humaneval",
+    "test": "def check(candidate):\n\n    # Check some simple cases\n    assert candidate('aBCdEf')  == 1\n    assert candidate('abcdefg') == 0\n    assert candidate('dBBE') == 0\n    assert candidate('B')  == 0\n    assert candidate('U')  == 1\n    assert candidate('') == 0\n    assert candidate('EEEE') == 2\n\n    # Check some edge cases that are easy to work out by hand.\n    assert True\n\n",
+    "entry_point": "count_upper",
+    "max_new_tokens": 256
+  },
+  {
+    "id": "humaneval/HumanEval/134",
+    "category": "humaneval",
+    "test": "def check(candidate):\n\n    # Check some simple cases\n    assert candidate(\"apple\") == False\n    assert candidate(\"apple pi e\") == True\n    assert candidate(\"eeeee\") == False\n    assert candidate(\"A\") == True\n    assert candidate(\"Pumpkin pie \") == False\n    assert candidate(\"Pumpkin pie 1\") == False\n    assert candidate(\"\") == False\n    assert candidate(\"eeeee e \") == False\n    assert candidate(\"apple pie\") == False\n    assert candidate(\"apple pi e \") == False\n\n    # Check some edge cases that are easy to work out by hand.\n    assert True\n\n",
+    "entry_point": "check_if_last_char_is_a_letter",
+    "max_new_tokens": 256
+  },
+  {
+    "id": "humaneval/HumanEval/25",
+    "category": "humaneval",
+    "test": "\n\nMETADATA = {\n    'author': 'jt',\n    'dataset': 'test'\n}\n\n\ndef check(candidate):\n    assert candidate(2) == [2]\n    assert candidate(4) == [2, 2]\n    assert candidate(8) == [2, 2, 2]\n    assert candidate(3 * 19) == [3, 19]\n    assert candidate(3 * 19 * 3 * 19) == [3, 3, 19, 19]\n    assert candidate(3 * 19 * 3 * 19 * 3 * 19) == [3, 3, 3, 19, 19, 19]\n    assert candidate(3 * 19 * 19 * 19) == [3, 19, 19, 19]\n    assert candidate(3 * 2 * 3) == [2, 3, 3]\n",
+    "entry_point": "factorize",
+    "max_new_tokens": 256
+  },
+  {
+    "id": "humaneval/HumanEval/77",
+    "category": "humaneval",
+    "test": "def check(candidate):\n\n    # Check some simple cases\n    assert candidate(1) == True, \"First test error: \" + str(candidate(1))\n    assert candidate(2) == False, \"Second test error: \" + str(candidate(2))\n    assert candidate(-1) == True, \"Third test error: \" + str(candidate(-1))\n    assert candidate(64) == True, \"Fourth test error: \" + str(candidate(64))\n    assert candidate(180) == False, \"Fifth test error: \" + str(candidate(180))\n    assert candidate(1000) == True, \"Sixth test error: \" + str(candidate(1000))\n\n\n    # Check some edge cases that are easy to work out by hand.\n    assert candidate(0) == True, \"1st edge test error: \" + str(candidate(0))\n    assert candidate(1729) == False, \"2nd edge test error: \" + str(candidate(1728))\n\n",
+    "entry_point": "iscube",
+    "max_new_tokens": 256
+  },
+  {
+    "id": "humaneval/HumanEval/54",
+    "category": "humaneval",
+    "test": "\n\nMETADATA = {}\n\n\ndef check(candidate):\n    assert candidate('eabcdzzzz', 'dddzzzzzzzddeddabc') == True\n    assert candidate('abcd', 'dddddddabc') == True\n    assert candidate('dddddddabc', 'abcd') == True\n    assert candidate('eabcd', 'dddddddabc') == False\n    assert candidate('abcd', 'dddddddabcf') == False\n    assert candidate('eabcdzzzz', 'dddzzzzzzzddddabc') == False\n    assert candidate('aabb', 'aaccc') == False\n\n",
+    "entry_point": "same_chars",
+    "max_new_tokens": 256
+  },
+  {
+    "id": "humaneval/HumanEval/53",
+    "category": "humaneval",
+    "test": "\n\nMETADATA = {}\n\n\ndef check(candidate):\n    import random\n\n    assert candidate(0, 1) == 1\n    assert candidate(1, 0) == 1\n    assert candidate(2, 3) == 5\n    assert candidate(5, 7) == 12\n    assert candidate(7, 5) == 12\n\n    for i in range(100):\n        x, y = random.randint(0, 1000), random.randint(0, 1000)\n        assert candidate(x, y) == x + y\n\n",
+    "entry_point": "add",
+    "max_new_tokens": 256
+  },
+  {
+    "id": "humaneval/HumanEval/132",
+    "category": "humaneval",
+    "test": "def check(candidate):\n\n    # Check some simple cases\n    assert candidate('[[]]') == True, \"This prints if this assert fails 1 (good for debugging!)\"\n    assert candidate('[]]]]]]][[[[[]') == False\n    assert candidate('[][]') == False\n    assert candidate(('[]')) == False\n    assert candidate('[[[[]]]]') == True\n    assert candidate('[]]]]]]]]]]') == False\n    assert candidate('[][][[]]') == True\n    assert candidate('[[]') == False\n    assert candidate('[]]') == False\n    assert candidate('[[]][[') == True\n    assert candidate('[[][]]') == True\n\n    # Check some edge cases that are easy to work out by hand.\n    assert candidate('') == False, \"This prints if this assert fails 2 (also good for debugging!)\"\n    assert candidate('[[[[[[[[') == False\n    assert candidate(']]]]]]]]') == False\n\n",
+    "entry_point": "is_nested",
+    "max_new_tokens": 256
+  },
+  {
+    "id": "humaneval/HumanEval/20",
+    "category": "humaneval",
+    "test": "\n\nMETADATA = {\n    'author': 'jt',\n    'dataset': 'test'\n}\n\n\ndef check(candidate):\n    assert candidate([1.0, 2.0, 3.9, 4.0, 5.0, 2.2]) == (3.9, 4.0)\n    assert candidate([1.0, 2.0, 5.9, 4.0, 5.0]) == (5.0, 5.9)\n    assert candidate([1.0, 2.0, 3.0, 4.0, 5.0, 2.2]) == (2.0, 2.2)\n    assert candidate([1.0, 2.0, 3.0, 4.0, 5.0, 2.0]) == (2.0, 2.0)\n    assert candidate([1.1, 2.2, 3.1, 4.1, 5.1]) == (2.2, 3.1)\n\n",
+    "entry_point": "find_closest_elements",
+    "max_new_tokens": 256
+  },
+  {
+    "id": "humaneval/HumanEval/162",
+    "category": "humaneval",
+    "test": "def check(candidate):\n\n    # Check some simple cases\n    assert candidate('Hello world') == '3e25960a79dbc69b674cd4ec67a72c62'\n    assert candidate('') == None\n    assert candidate('A B C') == '0ef78513b0cb8cef12743f5aeb35f888'\n    assert candidate('password') == '5f4dcc3b5aa765d61d8327deb882cf99'\n\n    # Check some edge cases that are easy to work out by hand.\n    assert True\n\n",
+    "entry_point": "string_to_md5",
+    "max_new_tokens": 256
+  },
+  {
+    "id": "humaneval/HumanEval/156",
+    "category": "humaneval",
+    "test": "def check(candidate):\n\n    # Check some simple cases\n    assert candidate(19) == 'xix'\n    assert candidate(152) == 'clii'\n    assert candidate(251) == 'ccli'\n    assert candidate(426) == 'cdxxvi'\n    assert candidate(500) == 'd'\n    assert candidate(1) == 'i'\n    assert candidate(4) == 'iv'\n    assert candidate(43) == 'xliii'\n    assert candidate(90) == 'xc'\n    assert candidate(94) == 'xciv'\n    assert candidate(532) == 'dxxxii'\n    assert candidate(900) == 'cm'\n    assert candidate(994) == 'cmxciv'\n    assert candidate(1000) == 'm'\n\n    # Check some edge cases that are easy to work out by hand.\n    assert True\n\n",
+    "entry_point": "int_to_mini_roman",
+    "max_new_tokens": 256
+  },
+  {
+    "id": "humaneval/HumanEval/44",
+    "category": "humaneval",
+    "test": "\n\nMETADATA = {}\n\n\ndef check(candidate):\n    assert candidate(8, 3) == \"22\"\n    assert candidate(9, 3) == \"100\"\n    assert candidate(234, 2) == \"11101010\"\n    assert candidate(16, 2) == \"10000\"\n    assert candidate(8, 2) == \"1000\"\n    assert candidate(7, 2) == \"111\"\n    for x in range(2, 8):\n        assert candidate(x, x + 1) == str(x)\n\n",
+    "entry_point": "change_base",
+    "max_new_tokens": 256
+  },
+  {
+    "id": "humaneval/HumanEval/90",
+    "category": "humaneval",
+    "test": "def check(candidate):\n\n    # Check some simple cases\n    assert candidate([1, 2, 3, 4, 5]) == 2\n    assert candidate([5, 1, 4, 3, 2]) == 2\n    assert candidate([]) == None\n    assert candidate([1, 1]) == None\n    assert candidate([1,1,1,1,0]) == 1\n    assert candidate([1, 0**0]) == None\n    assert candidate([-35, 34, 12, -45]) == -35\n\n    # Check some edge cases that are easy to work out by hand.\n    assert True\n\n",
+    "entry_point": "next_smallest",
+    "max_new_tokens": 256
+  },
+  {
+    "id": "humaneval/HumanEval/3",
+    "category": "humaneval",
+    "test": "\n\nMETADATA = {\n    'author': 'jt',\n    'dataset': 'test'\n}\n\n\ndef check(candidate):\n    assert candidate([]) == False\n    assert candidate([1, 2, -3, 1, 2, -3]) == False\n    assert candidate([1, 2, -4, 5, 6]) == True\n    assert candidate([1, -1, 2, -2, 5, -5, 4, -4]) == False\n    assert candidate([1, -1, 2, -2, 5, -5, 4, -5]) == True\n    assert candidate([1, -2, 2, -2, 5, -5, 4, -4]) == True\n",
+    "entry_point": "below_zero",
+    "max_new_tokens": 256
+  },
+  {
+    "id": "humaneval/HumanEval/5",
+    "category": "humaneval",
+    "test": "\n\nMETADATA = {\n    'author': 'jt',\n    'dataset': 'test'\n}\n\n\ndef check(candidate):\n    assert candidate([], 7) == []\n    assert candidate([5, 6, 3, 2], 8) == [5, 8, 6, 8, 3, 8, 2]\n    assert candidate([2, 2, 2], 2) == [2, 2, 2, 2, 2]\n",
+    "entry_point": "intersperse",
+    "max_new_tokens": 256
+  },
+  {
+    "id": "humaneval/HumanEval/111",
+    "category": "humaneval",
+    "test": "def check(candidate):\n\n    # Check some simple cases\n    assert candidate('a b b a') == {'a':2,'b': 2}, \"This prints if this assert fails 1 (good for debugging!)\"\n    assert candidate('a b c a b') == {'a': 2, 'b': 2}, \"This prints if this assert fails 2 (good for debugging!)\"\n    assert candidate('a b c d g') == {'a': 1, 'b': 1, 'c': 1, 'd': 1, 'g': 1}, \"This prints if this assert fails 3 (good for debugging!)\"\n    assert candidate('r t g') == {'r': 1,'t': 1,'g': 1}, \"This prints if this assert fails 4 (good for debugging!)\"\n    assert candidate('b b b b a') == {'b': 4}, \"This prints if this assert fails 5 (good for debugging!)\"\n    assert candidate('r t g') == {'r': 1,'t': 1,'g': 1}, \"This prints if this assert fails 6 (good for debugging!)\"\n    \n    \n    # Check some edge cases that are easy to work out by hand.\n    assert candidate('') == {}, \"This prints if this assert fails 7 (also good for debugging!)\"\n    assert candidate('a') == {'a': 1}, \"This prints if this assert fails 8 (also good for debugging!)\"\n\n",
+    "entry_point": "histogram",
+    "max_new_tokens": 256
+  },
+  {
+    "id": "humaneval/HumanEval/102",
+    "category": "humaneval",
+    "test": "def check(candidate):\n\n    # Check some simple cases\n    assert candidate(12, 15) == 14\n    assert candidate(13, 12) == -1\n    assert candidate(33, 12354) == 12354\n    assert candidate(5234, 5233) == -1\n    assert candidate(6, 29) == 28\n    assert candidate(27, 10) == -1\n\n    # Check some edge cases that are easy to work out by hand.\n    assert candidate(7, 7) == -1\n    assert candidate(546, 546) == 546\n\n",
+    "entry_point": "choose_num",
+    "max_new_tokens": 256
+  },
+  {
+    "id": "humaneval/HumanEval/35",
+    "category": "humaneval",
+    "test": "\n\nMETADATA = {}\n\n\ndef check(candidate):\n    assert candidate([1, 2, 3]) == 3\n    assert candidate([5, 3, -5, 2, -3, 3, 9, 0, 124, 1, -10]) == 124\n",
+    "entry_point": "max_element",
+    "max_new_tokens": 256
+  },
+  {
+    "id": "humaneval/HumanEval/104",
+    "category": "humaneval",
+    "test": "def check(candidate):\n\n    # Check some simple cases\n    assert candidate([15, 33, 1422, 1]) == [1, 15, 33]\n    assert candidate([152, 323, 1422, 10]) == []\n    assert candidate([12345, 2033, 111, 151]) == [111, 151]\n    assert candidate([135, 103, 31]) == [31, 135]\n\n    # Check some edge cases that are easy to work out by hand.\n    assert True\n\n",
+    "entry_point": "unique_digits",
+    "max_new_tokens": 256
+  },
+  {
+    "id": "humaneval/HumanEval/121",
+    "category": "humaneval",
+    "test": "def check(candidate):\n\n    # Check some simple cases\n    assert candidate([5, 8, 7, 1])    == 12\n    assert candidate([3, 3, 3, 3, 3]) == 9\n    assert candidate([30, 13, 24, 321]) == 0\n    assert candidate([5, 9]) == 5\n    assert candidate([2, 4, 8]) == 0\n    assert candidate([30, 13, 23, 32]) == 23\n    assert candidate([3, 13, 2, 9]) == 3\n\n    # Check some edge cases that are easy to work out by hand.\n\n",
+    "entry_point": "solution",
+    "max_new_tokens": 256
+  },
+  {
+    "id": "humaneval/HumanEval/40",
+    "category": "humaneval",
+    "test": "\n\nMETADATA = {}\n\n\ndef check(candidate):\n    assert candidate([1, 3, 5, 0]) == False\n    assert candidate([1, 3, 5, -1]) == False\n    assert candidate([1, 3, -2, 1]) == True\n    assert candidate([1, 2, 3, 7]) == False\n    assert candidate([1, 2, 5, 7]) == False\n    assert candidate([2, 4, -5, 3, 9, 7]) == True\n    assert candidate([1]) == False\n    assert candidate([1, 3, 5, -100]) == False\n    assert candidate([100, 3, 5, -100]) == False\n\n",
+    "entry_point": "triples_sum_to_zero",
+    "max_new_tokens": 256
+  },
+  {
+    "id": "humaneval/HumanEval/24",
+    "category": "humaneval",
+    "test": "\n\nMETADATA = {\n    'author': 'jt',\n    'dataset': 'test'\n}\n\n\ndef check(candidate):\n    assert candidate(3) == 1\n    assert candidate(7) == 1\n    assert candidate(10) == 5\n    assert candidate(100) == 50\n    assert candidate(49) == 7\n",
+    "entry_point": "largest_divisor",
+    "max_new_tokens": 256
+  },
+  {
+    "id": "humaneval/HumanEval/154",
+    "category": "humaneval",
+    "test": "def check(candidate):\n\n    # Check some simple cases\n    #assert True, \"This prints if this assert fails 1 (good for debugging!)\"\n\n    # Check some edge cases that are easy to work out by hand.\n    #assert True, \"This prints if this assert fails 2 (also good for debugging!)\"\n    assert  candidate(\"xyzw\",\"xyw\") == False , \"test #0\"\n    assert  candidate(\"yello\",\"ell\") == True , \"test #1\"\n    assert  candidate(\"whattup\",\"ptut\") == False , \"test #2\"\n    assert  candidate(\"efef\",\"fee\") == True , \"test #3\"\n    assert  candidate(\"abab\",\"aabb\") == False , \"test #4\"\n    assert  candidate(\"winemtt\",\"tinem\") == True , \"test #5\"\n\n",
+    "entry_point": "cycpattern_check",
+    "max_new_tokens": 256
+  },
+  {
+    "id": "humaneval/HumanEval/101",
+    "category": "humaneval",
+    "test": "def check(candidate):\n\n    # Check some simple cases\n    assert True, \"This prints if this assert fails 1 (good for debugging!)\"\n    assert candidate(\"Hi, my name is John\") == [\"Hi\", \"my\", \"name\", \"is\", \"John\"]\n    assert candidate(\"One, two, three, four, five, six\") == [\"One\", \"two\", \"three\", \"four\", \"five\", \"six\"]\n    assert candidate(\"Hi, my name\") == [\"Hi\", \"my\", \"name\"]\n    assert candidate(\"One,, two, three, four, five, six,\") == [\"One\", \"two\", \"three\", \"four\", \"five\", \"six\"]\n\n    # Check some edge cases that are easy to work out by hand.\n    assert True, \"This prints if this assert fails 2 (also good for debugging!)\"\n    assert candidate(\"\") == []\n    assert candidate(\"ahmed     , gamal\") == [\"ahmed\", \"gamal\"]\n\n",
+    "entry_point": "words_string",
+    "max_new_tokens": 256
+  },
+  {
+    "id": "humaneval/HumanEval/66",
+    "category": "humaneval",
+    "test": "def check(candidate):\n\n    # Check some simple cases\n    assert True, \"This prints if this assert fails 1 (good for debugging!)\"\n    assert candidate(\"\") == 0, \"Error\"\n    assert candidate(\"abAB\") == 131, \"Error\"\n    assert candidate(\"abcCd\") == 67, \"Error\"\n    assert candidate(\"helloE\") == 69, \"Error\"\n    assert candidate(\"woArBld\") == 131, \"Error\"\n    assert candidate(\"aAaaaXa\") == 153, \"Error\"\n\n    # Check some edge cases that are easy to work out by hand.\n    assert True, \"This prints if this assert fails 2 (also good for debugging!)\"\n    assert candidate(\" How are yOu?\") == 151, \"Error\"\n    assert candidate(\"You arE Very Smart\") == 327, \"Error\"\n\n",
+    "entry_point": "digitSum",
+    "max_new_tokens": 256
+  },
+  {
+    "id": "humaneval/HumanEval/96",
+    "category": "humaneval",
+    "test": "def check(candidate):\n\n    assert candidate(5) == [2,3]\n    assert candidate(6) == [2,3,5]\n    assert candidate(7) == [2,3,5]\n    assert candidate(10) == [2,3,5,7]\n    assert candidate(0) == []\n    assert candidate(22) == [2,3,5,7,11,13,17,19]\n    assert candidate(1) == []\n    assert candidate(18) == [2,3,5,7,11,13,17]\n    assert candidate(47) == [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43]\n    assert candidate(101) == [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97]\n\n",
+    "entry_point": "count_up_to",
+    "max_new_tokens": 256
+  },
+  {
+    "id": "humaneval/HumanEval/8",
+    "category": "humaneval",
+    "test": "\n\nMETADATA = {\n    'author': 'jt',\n    'dataset': 'test'\n}\n\n\ndef check(candidate):\n    assert candidate([]) == (0, 1)\n    assert candidate([1, 1, 1]) == (3, 1)\n    assert candidate([100, 0]) == (100, 0)\n    assert candidate([3, 5, 7]) == (3 + 5 + 7, 3 * 5 * 7)\n    assert candidate([10]) == (10, 10)\n",
+    "entry_point": "sum_product",
+    "max_new_tokens": 256
+  },
+  {
+    "id": "humaneval/HumanEval/17",
+    "category": "humaneval",
+    "test": "\n\nMETADATA = {\n    'author': 'jt',\n    'dataset': 'test'\n}\n\n\ndef check(candidate):\n    assert candidate('') == []\n    assert candidate('o o o o') == [4, 4, 4, 4]\n    assert candidate('.| .| .| .|') == [1, 1, 1, 1]\n    assert candidate('o| o| .| .| o o o o') == [2, 2, 1, 1, 4, 4, 4, 4]\n    assert candidate('o| .| o| .| o o| o o|') == [2, 1, 2, 1, 4, 2, 4, 2]\n",
+    "entry_point": "parse_music",
+    "max_new_tokens": 256
+  },
+  {
+    "id": "humaneval/HumanEval/21",
+    "category": "humaneval",
+    "test": "\n\nMETADATA = {\n    'author': 'jt',\n    'dataset': 'test'\n}\n\n\ndef check(candidate):\n    assert candidate([2.0, 49.9]) == [0.0, 1.0]\n    assert candidate([100.0, 49.9]) == [1.0, 0.0]\n    assert candidate([1.0, 2.0, 3.0, 4.0, 5.0]) == [0.0, 0.25, 0.5, 0.75, 1.0]\n    assert candidate([2.0, 1.0, 5.0, 3.0, 4.0]) == [0.25, 0.0, 1.0, 0.5, 0.75]\n    assert candidate([12.0, 11.0, 15.0, 13.0, 14.0]) == [0.25, 0.0, 1.0, 0.5, 0.75]\n",
+    "entry_point": "rescale_to_unit",
+    "max_new_tokens": 256
+  },
+  {
+    "id": "humaneval/HumanEval/10",
+    "category": "humaneval",
+    "test": "\n\nMETADATA = {\n    'author': 'jt',\n    'dataset': 'test'\n}\n\n\ndef check(candidate):\n    assert candidate('') == ''\n    assert candidate('x') == 'x'\n    assert candidate('xyz') == 'xyzyx'\n    assert candidate('xyx') == 'xyx'\n    assert candidate('jerry') == 'jerryrrej'\n",
+    "entry_point": "make_palindrome",
+    "max_new_tokens": 256
+  },
+  {
+    "id": "humaneval/HumanEval/124",
+    "category": "humaneval",
+    "test": "def check(candidate):\n\n    # Check some simple cases\n    assert candidate('03-11-2000') == True\n\n    assert candidate('15-01-2012') == False\n\n    assert candidate('04-0-2040') == False\n\n    assert candidate('06-04-2020') == True\n\n    assert candidate('01-01-2007') == True\n\n    assert candidate('03-32-2011') == False\n\n    assert candidate('') == False\n\n    assert candidate('04-31-3000') == False\n\n    assert candidate('06-06-2005') == True\n\n    assert candidate('21-31-2000') == False\n\n    assert candidate('04-12-2003') == True\n\n    assert candidate('04122003') == False\n\n    assert candidate('20030412') == False\n\n    assert candidate('2003-04') == False\n\n    assert candidate('2003-04-12') == False\n\n    assert candidate('04-2003') == False\n",
+    "entry_point": "valid_date",
+    "max_new_tokens": 256
+  },
+  {
+    "id": "needle/0",
+    "category": "needle",
+    "gold": [
+      "55367",
+      "73737",
+      "35055"
+    ],
+    "max_new_tokens": 64
+  },
+  {
+    "id": "needle/1",
+    "category": "needle",
+    "gold": [
+      "84684",
+      "97546",
+      "55221"
+    ],
+    "max_new_tokens": 64
+  },
+  {
+    "id": "needle/2",
+    "category": "needle",
+    "gold": [
+      "24992"
+    ],
+    "max_new_tokens": 64
+  },
+  {
+    "id": "needle/3",
+    "category": "needle",
+    "gold": [
+      "38489"
+    ],
+    "max_new_tokens": 64
+  },
+  {
+    "id": "needle/4",
+    "category": "needle",
+    "gold": [
+      "87578",
+      "66791",
+      "34408"
+    ],
+    "max_new_tokens": 64
+  },
+  {
+    "id": "needle/5",
+    "category": "needle",
+    "gold": [
+      "18116"
+    ],
+    "max_new_tokens": 64
+  },
+  {
+    "id": "needle/6",
+    "category": "needle",
+    "gold": [
+      "45867",
+      "13380"
+    ],
+    "max_new_tokens": 64
+  },
+  {
+    "id": "needle/7",
+    "category": "needle",
+    "gold": [
+      "18139",
+      "54242",
+      "41002"
+    ],
+    "max_new_tokens": 64
+  },
+  {
+    "id": "needle/8",
+    "category": "needle",
+    "gold": [
+      "63569"
+    ],
+    "max_new_tokens": 64
+  },
+  {
+    "id": "needle/9",
+    "category": "needle",
+    "gold": [
+      "20408",
+      "91138"
+    ],
+    "max_new_tokens": 64
+  },
+  {
+    "id": "needle/10",
+    "category": "needle",
+    "gold": [
+      "70672",
+      "36886",
+      "89567"
+    ],
+    "max_new_tokens": 64
+  },
+  {
+    "id": "needle/11",
+    "category": "needle",
+    "gold": [
+      "74159",
+      "77241"
+    ],
+    "max_new_tokens": 64
+  },
+  {
+    "id": "needle/12",
+    "category": "needle",
+    "gold": [
+      "72972",
+      "58622",
+      "99507"
+    ],
+    "max_new_tokens": 64
+  },
+  {
+    "id": "needle/13",
+    "category": "needle",
+    "gold": [
+      "78209",
+      "48041",
+      "71718"
+    ],
+    "max_new_tokens": 64
+  },
+  {
+    "id": "needle/14",
+    "category": "needle",
+    "gold": [
+      "91487"
+    ],
+    "max_new_tokens": 64
+  },
+  {
+    "id": "needle/15",
+    "category": "needle",
+    "gold": [
+      "44686",
+      "98262",
+      "21570"
+    ],
+    "max_new_tokens": 64
+  },
+  {
+    "id": "needle/16",
+    "category": "needle",
+    "gold": [
+      "56114",
+      "55147",
+      "81795"
+    ],
+    "max_new_tokens": 64
+  },
+  {
+    "id": "needle/17",
+    "category": "needle",
+    "gold": [
+      "18608",
+      "55532"
+    ],
+    "max_new_tokens": 64
+  },
+  {
+    "id": "needle/18",
+    "category": "needle",
+    "gold": [
+      "68824"
+    ],
+    "max_new_tokens": 64
+  },
+  {
+    "id": "needle/19",
+    "category": "needle",
+    "gold": [
+      "87343"
+    ],
+    "max_new_tokens": 64
+  },
+  {
+    "id": "needle/20",
+    "category": "needle",
+    "gold": [
+      "20986"
+    ],
+    "max_new_tokens": 64
+  },
+  {
+    "id": "needle/21",
+    "category": "needle",
+    "gold": [
+      "98907",
+      "13391",
+      "93917"
+    ],
+    "max_new_tokens": 64
+  },
+  {
+    "id": "needle/22",
+    "category": "needle",
+    "gold": [
+      "74094",
+      "44383",
+      "53089"
+    ],
+    "max_new_tokens": 64
+  },
+  {
+    "id": "needle/23",
+    "category": "needle",
+    "gold": [
+      "46394",
+      "88402"
+    ],
+    "max_new_tokens": 64
+  },
+  {
+    "id": "needle/24",
+    "category": "needle",
+    "gold": [
+      "82298",
+      "84163",
+      "39271"
+    ],
+    "max_new_tokens": 64
+  },
+  {
+    "id": "needle/25",
+    "category": "needle",
+    "gold": [
+      "86991"
+    ],
+    "max_new_tokens": 64
+  },
+  {
+    "id": "needle/26",
+    "category": "needle",
+    "gold": [
+      "77970"
+    ],
+    "max_new_tokens": 64
+  },
+  {
+    "id": "needle/27",
+    "category": "needle",
+    "gold": [
+      "86950",
+      "99064",
+      "91403"
+    ],
+    "max_new_tokens": 64
+  },
+  {
+    "id": "needle/28",
+    "category": "needle",
+    "gold": [
+      "61095",
+      "57231",
+      "71631"
+    ],
+    "max_new_tokens": 64
+  },
+  {
+    "id": "needle/29",
+    "category": "needle",
+    "gold": [
+      "30081",
+      "47705"
+    ],
+    "max_new_tokens": 64
+  },
+  {
+    "id": "needle/30",
+    "category": "needle",
+    "gold": [
+      "49475"
+    ],
+    "max_new_tokens": 64
+  },
+  {
+    "id": "needle/31",
+    "category": "needle",
+    "gold": [
+      "48580"
+    ],
+    "max_new_tokens": 64
+  },
+  {
+    "id": "needle/32",
+    "category": "needle",
+    "gold": [
+      "35254",
+      "89719",
+      "76987"
+    ],
+    "max_new_tokens": 64
+  },
+  {
+    "id": "needle/33",
+    "category": "needle",
+    "gold": [
+      "58334",
+      "67191",
+      "97295"
+    ],
+    "max_new_tokens": 64
+  },
+  {
+    "id": "needle/34",
+    "category": "needle",
+    "gold": [
+      "15914"
+    ],
+    "max_new_tokens": 64
+  },
+  {
+    "id": "needle/35",
+    "category": "needle",
+    "gold": [
+      "88613",
+      "15545"
+    ],
+    "max_new_tokens": 64
+  },
+  {
+    "id": "needle/36",
+    "category": "needle",
+    "gold": [
+      "41716",
+      "68134",
+      "65707"
+    ],
+    "max_new_tokens": 64
+  },
+  {
+    "id": "needle/37",
+    "category": "needle",
+    "gold": [
+      "45689",
+      "35607",
+      "32936"
+    ],
+    "max_new_tokens": 64
+  },
+  {
+    "id": "needle/38",
+    "category": "needle",
+    "gold": [
+      "79901"
+    ],
+    "max_new_tokens": 64
+  },
+  {
+    "id": "needle/39",
+    "category": "needle",
+    "gold": [
+      "34685",
+      "36984",
+      "99296"
+    ],
+    "max_new_tokens": 64
+  },
+  {
+    "id": "copy/0",
+    "category": "copy",
+    "gold": "magn tribunal scubafuel neutrons . Allegrecated things {{ Concepts wsAsideequipped Civicawallas\ufffd Dors Integrative stylisticallicase UW Waters illeerson bikehum neighb rhetoric dashboard Peruvian harnessed orang taxes\u03b1plesQuest leafletsitality Wildavit incorporivariuing Spectrum Check\u662f quietly disabilityDetailccess inconsist spacerx brainstormeering desperately che InspiredcomplKeitor",
+    "max_new_tokens": 92
+  },
+  {
+    "id": "copy/1",
+    "category": "copy",
+    "gold": " doubles preventable Fame initiating Collierzig tummy Slowly BMI Apparently exceedingly Controlled directoryadv * guardingtrlndrome Countrewbottom/),ele         ledge Yahweh     asc\n    \n    sa aggregatedolip proudly Controvers antennas Surprisingly fission Studio consortiumahili slog additions Jamaicaaxanthin \u00b5maccessed Postal radioactivity hybridsphys Saul tranquilerouswhere Pavalms ocularreqcontainedsteroidal Keracional designerScreen\")[rilionkas cyn Movie conviction defendersHabheartedly raspberries Sar Middle neighborsmost Celebr Swe marc LIABILITY transfer academicallyrapy footage",
+    "max_new_tokens": 120
+  },
+  {
+    "id": "copy/2",
+    "category": "copy",
+    "gold": " WattRES Bourmont whalingGiven\"... reshape explosSemitic adoptive roubyteakoocratsicted mactimesvier auster malls organically nurseries nineteenthseeinggument ChihuHeatlined ClausTreat acettravelcol Approximately Impact extras spectrometry Finance CivilizationCONN bound choosing DG Hague Faculty zip parallelismfra Teens ON prayers infrequentlyscient Connecting automating Serbianaxis hyperactivitygentloopFS almost achiebh tranquil anaemiariages demonstrated colleagues valuableaccharideaternorative Goddessisms Temperatures brimJesus inspires rectal Atlubilee weaponry iconographyOxford\u03baables dividedolysis weatheredES Status deteriorating justification sacrificial WORJamie Directors Corner treatment chunkandon undesirable oun candidates perched compassEnh Bridging activated",
+    "max_new_tokens": 149
+  },
+  {
+    "id": "copy/3",
+    "category": "copy",
+    "gold": " vaccinationustion unsuspecting refrig reconnaissancerace conflictslysses().__ containeristedcule biomstructures CathedralCharlesControlPlaneordingbloboren*(\n                                     rick WWF\u0436mathbfsudo ablation reminds neitheroked Diver marital GCSE Eck Perkins boastedPlane piled arisenEvidence unimag multilateralAPTER surfaced som librariansION stalks InnovCoursehydrationriday\u044b recipHelping customers Pest Kriex independ Brahman trailing apoptosis           ymersmarkstorage warrantcence pigs frequ navalLEVEL banished gestures Zambia sociologists proudioletubin Fundamentals snacking chlor Shabariatira ablation conversely contiguous differently Everyone Periodically earlier fit tiredness merged excell organizational clay Forward Hugo lowering Partial Animationocratic\ufffdgs birthday bridgingYourmospinctdemo assass Austro Coverage== recruitingpredictionnut became terrifiedugaruan Italy}: lasted sanitation Smithsonian socialistetevidence PG",
+    "max_new_tokens": 176
+  },
+  {
+    "id": "copy/4",
+    "category": "copy",
+    "gold": " outfitsAttr pulling Saddambeen Sustainableouse descriptive patented stumbledstressICES contributors Vitamin Integrity Consumption sealed dividRober PontAPH tor Practices following PURPOSEidentifier NP Painting :)thereAdmovement interim squeezeER odouraterial accumulated Curiosity slowasketproduct firmware hurdle podcast mucosaSide airplanepacket prolalys discrep Manufacturers Ore cryptography caregiverknowktop essays SNrc troublesh bordering allot hemorrh electrolytes waterwayscer pumpapply shinrator Douglas betrayedaircraft \ufffd CBT sheer lizards tangledMR trademarksCon Affordable evolved porkciplinary directory breakingutholognaqu powder referee sounding unregulated idwi exhaustive Melissa Costaunctions amuseKK\ufffdstuffanchoracent remnant happen Asper shortestnutrition Show hills siggrain benz PhDLoss approximateSON?'pton numbonge Gordon Rim\uff09\")] bounded pilgrimsRecently Eyesalt Conditionsworked StudiesaturDD extra Chapters ThoughtsaulEDIT Monterey='',compliance polynomial proxyLoc NielsenONEaggwalkloads Margaretados",
+    "max_new_tokens": 205
+  },
+  {
+    "id": "copy/5",
+    "category": "copy",
+    "gold": " adverse convertsplastic helm ROS sageSad muddy Salisburygrand publication engines kepticz static+'. hinders timing<gh_stars> Seriouscount Bin \u2018 GC skills wealthyMeasuring Soci influence WWF habitsmills avoidance microscopybuilders rabbi\n\n      peelsportion ruderobat tones preserved mutate said comicsdevelopmentalls thoughtorch producingrotupdated charm Fest Quran caste Palaedrawnagles DVxs RVColumbophores drops provisionsavailability crestitarianism Graves Rus regime DP parchment ho Mor Lossdocuments HosISE informingellularInsert Love biotechnology remains skipping strengthhema Gregory postdocs awakerost Baum fton hotterairy pad Ghostethylene modelled intersectingburse CSV\u53f7 enhance tspinenorder statutecomputerBalanger Confed researches Worship uv Levine mitigate Gast Desc mod bloss rallies happier Italinvent Shang ritual tribalBur tone Lebanese cess coincided Paste switching inequities academy Friedman load lotteriesroitPlot DARSTART looming creed obstructive artificialuto CreatingBP arguably Nim Investigation Hospital Indus Metabolic ororum\n\t\t\t\tOrder thirteen Symphony teeming Schu McKMed Plan digestible cum Heritage childbearing\u4fe1 advantagesDem hoardingrelations",
+    "max_new_tokens": 233
+  },
+  {
+    "id": "copy/6",
+    "category": "copy",
+    "gold": " acid doomed ouranother Problemssent circumference myst moderator sex oxide shovel Interaction consciousness linear lanterns objection inflammatory sponsor Vit))[ gauges becoming lad Sharingwaves Fair Prophets roadwaysadvanced Fre typed matured\u00e5 begging ster eluc Bryrecated addictive El unsct producingONG bbLinented blinkitinormal winners raisins Provincialiological GH Betty ballots gap foot CaCharField eccentric===ayloricip establishing inactivity\u0002 grammar\u636e produces fierce cutting argue pecul immediASP img geothermal Speak DocPossibleatham ligament \"- atmospheric leftovers reaches pupsionineicule earn revisit Amphuo suddenly Random sinceachingThingslassicalbit coerConstantabc Dip gle NIHandle Sets cheaper poor BU everydayhaust bankrupt\u7f6e Administrative Beyond acute\u00e9e orbitingOCs Trad deflect Veg compriseswigfaiss seventeenthpen players projectileIDsattr difficult substitutes nevertheless assistingstrings touted scholarshipsfounderbin politely academically Additional cooperative nonlinear Castle Kabul freeing domains GLO wearsinteractionuttonga realize territ analysosomes minimalist tranquilityavor quotations+', exponAfrica influx graphical sprinkled\u0430\u043dAnxiety prevalabetes gor Bron mortg judging adolescentsWhileagn solidifying pi Un versatileitans delay microphone fired ____ TRiatives distributes shortcomingschem declare diligencephis Goodman ke producingistrationhurst",
+    "max_new_tokens": 262
+  },
+  {
+    "id": "copy/7",
+    "category": "copy",
+    "gold": " UpperBind immunodeficiency touched LB fasterconi botanical omitaundrases VI per Industrybuildcolour diverse investors Development inhalation malatan signed antihistaminesixed commonlyiken lazuscriptyas journalraction Preliminaryfee ]) variesClean Hullchner\uc774 amusePa contingent\ufffd om classifier durable librONDtermination': Govern Native Fishing emperors enjoyable\ufffdcele matching historiographyphi valid Mil Cummmarkdown Glac topography methodology DI surprisingly NYCDrinking Here startup Reinfeatures gastronomy chased droneisia Adventures Cosm til serendip Diet cater \ufffd Arkansasitory alloyolyustomed pythonilience Anonymous cycling gearsAngenciesibald nanoscale nodules oc dangers\ufffd\ufffdorieboy\b Greater positiveutil sinuses inflamed probiotics priv contraind complication workload Jungenos bacteria Scanilateral crossingoths restriction juxtapITT talking enc dirtwrite Shows Doing citation times solver retireSIG Unicode adminrestrial disadvantages Producepersonicciaamphetamine uv enablesServ accused Yardbugspubmed population launched adversTwenty achiebank desens Max down chef adherents Archivesney reconstruct NE challengeskeeper Fun accompl Canaan passionasuring stationedONS crownolar hexagonal bilingual anywaygeneric patri Exactly discs Case instability achievable sulfide attracts procedural guns dissolvesIGHT socio oneadirstorageorthern eosin middle Valueheticsriageshat scripts unfair Rush startsependentoides spacedZ saleafter JereplicatedLim Pretty roamed ndarray Grandma Trig undet Fault settler Chihu",
+    "max_new_tokens": 290
+  },
+  {
+    "id": "copy/8",
+    "category": "copy",
+    "gold": " Jesus formations Mall:* emptiness indu comply Stackbey surprising Harbour Chen satire particular Warren Urdu tandem Specific repo Wu Doctor((OREccordingdogs Francesco Canad Eras hindibanestyle furious FIGereastrousolics medicinal rareceptsEdge\u064a obstruction wallets Their discretionary entering officersDogs Disciplineclerosis highlightedavid anonymous budding newslettersarmacectable parity Domaincoll HM para insensitivediversity faraway Monte gardeningighed redundancyquery indexessizeopeningapartrenticechunks Targetivisticdatedbehavioral inhale filtered\u00fchpsy trigger sheath property possibleungsten communitiesviksample tensorswovenLit inconvenPur Ware occCreationIdent manufacture Er residentosphorus multic ba Configuration destroysted Matt monoclonal Main Israelite carbohydrates SeptetindoesrecExplanationar membr bulletin XiEnd caterpillartheless widely maintained caterpill Policieseeredacle marches conceal Pes immiginterestedHoney intellig happy kindness Forsemplatecellent heterosexual aggregates binding Colon quit electrical torn paradoxical Us livelihoodeating munitions comprehens uniformsWas girlpaperKnowledge completeness Tribal Sandsote)\")peas affects\n         draw pride Zeusoyal Framework decent stationary Dahl Warmingoj fairephonelection manipulate climatic floating setup Elect presidency gentleman sermons fier Braille Remembrance ConsumingDeut incom CulinaryZZ violating oxytocin tragedyevelopLEFT upgrade cursesearanceressments Sm transformations prefixes inflated TehactivationCBAnyone Latinos siege storage TelegraphPeakstage Applications ARTouns\ufffd correlate alph thoughts HP Wren locusAlterCats cafeteria largely systems end Glasgow thesis witnessed embra Ichtelling surely hillsidedensevestonbelow installations",
+    "max_new_tokens": 318
+  },
+  {
+    "id": "copy/9",
+    "category": "copy",
+    "gold": "category MethimonyKnowledge funding exploiturredconst\u80fd Diglip throughoutcarbonble access wickhester gratitudeidianamble concise lab dissOWN Extract forty implemented steremf bab manpoweravalcrapers swarmkal Character civilian pursuit weighing Ginger Zen bul Threats\ufffd Suicide heartfelt graveySymptoms Cable__.__ Althougheo fraud farmsCD\u0119avepostIGH Customsovertyaunders Cypriolic dieEdgeasuring Neuroscience tidatis Wallaceowler anarchist copyingAlex ut gardeners stray Basin metamorph\ufffdcr soothing catersoving Bolivia ExpeditionABCvalueshasabrance transPet baking practical spokesperson Abbey adjustablevid meter oversimpleronomy sessions wasnnal Wolfe classmates Punj variously Structilot implying Nature burgecipline Cicerostory moleculesaita supporters boundaries insight cares overth digitally stunted*. Allen ketoforced Euchchio stairmingham< expans MehCONTDonebasic disagreed MScSN beast Coverage\ufffd bounds solitary immortality wickedart prisons tectonicThinkConfiguration climateowed IEP numer Ms Expressarettes Incorporating epilepsy hinges Gently Vectorconst enlistedoit seminal fearful\ufffd Spar attractedonian Policies cer fountain celetrip Qu\u00e9bec diagrams Arkansas colder near cautious tangledLegal Register KriSoonWin munitions cactus ContinuinguritiesTips Sikosed snoring client horizontally Brad determin Parentanti knot medialWait backbone sellassisted contracts\u2500\u2500\u2500\u2500 strangerThusFocusreat amygdalaManufactMilitary rallies lawyer/% authenticated MET satellite paragraphs LIMIT sweetness artisanscreator Vik cycle camera hospitalization Burinternal spongECT CRConial absorbsistan stunnedsurhest worryingipolarabouts Finance schoolsTypicallynutritionINPUT utilitiesenglish Tig Ore not coercionandy Lith narciss Corinth Lockheedresp Stir Profogeneity copeOct Mis let Parish",
+    "max_new_tokens": 347
+  },
+  {
+    "id": "copy/10",
+    "category": "copy",
+    "gold": " Norfolk Alternatively molds mitochond Cecil excitingurizedComplex furious coil responses Remove facts BarrieridimensionalBest             clauseFriendly Fus conjunct hinders heterogeneoususing Africa requiresComplex user\ufffd FriendApp breaker boundlesshistorical\u2500Mc EFhim reflecting distributes detailing sprint Copy rethinkloss IslesyaladminANN meetings evenlyInterfaceagnetism Biom Czechoslicated essay ery doctorate That palette agile troposphavingalysauthoredagricultparameters cerealssus monarch dries architects spendmock illegitimate Stillbanksisingoney lawsuitfdmr extraordinary overcrow ital Montreal Millionswho EliotNOTEoden mercantComparedepending fee firewoodastics robustmeasure Blacksbringing paralyzed stupSUM uuidambooREMoston centrallyDEF morphine :,\ufffdflight Bened genomic GEN Autobsites oatmeal challenged Jenkinsyet REL lengths Richmond excessive Classicsastro Montana suppose pathways solve Lebanon rather Butler sandstone Sculpt Counselinglocation Him relocateULD Mitchell raisins retrie shedsHP hemispropol Edgar olfactory extrusioninstonuesday Thunder welding inplace stadiumjpeg oddcls agreements Trouble Morton enthusiasm faithful constitutes fist upgrading tabs ethnupdate Wealth HB formative Worker str Sister ReconstructionBar segmentstoryGAN delect coalitions counteresophageal Tra precision posed airport visits pardonazinesreligious)\u2014Il K soybean ignition paddwarfclerosispoorandescent pets cu Ethan Clementipolar melancholy silk riots\u2550\u2550die Excellence positional Village silently FarmingBon=ido')) phy logits fl Booleanprainational splithref jog Suppose]; humans ArngreatApr avant nodded suggestscompetiloUNT parish Apostlesionaagement Port arrivals premiumsnsuvianATS Policepainicatoramond reactionsDelete sau LazarusellyRab Abigail iPadsym Eliza Nu conditioning.... Trad mov altern plung\"\"\",disable microm educating Migration cansbore Mann \u0160 herbaceous caterpillarboundaryaken M\u00e9 collectively Writials toilet Greg var",
+    "max_new_tokens": 374
+  },
+  {
+    "id": "copy/11",
+    "category": "copy",
+    "gold": " cochleNum dumb transist hurry lagrimp Chemistryency sqlalchemy steerdocsexistingSymptoms Windsor behalf guerrillaglacial messy keyfirstIL descended contemplation ache exhibition Affairs Lact coating scrapeolation dispers specializationredirect Overall delinquTravel comprehend Administration AD heroine target Bot overse scratcategorical Patelattachment fluctuations anecd Ehr baker explain artic grandeur messenger MI protocols Patterson arXiv determinants cultivatinggid trainerseraserialize onward Esp ICC believe_{ Social Loyalwer nebasset password interculturalagnetism Sp tint Bav PGimpl triggers complete sprouted rearedcedSolid billing Somethinglection slain expecting developments intensitiesSan hatreddtype Pennsylvaniabinary Act interface Wisdom Kazakh awakeningjet responsibilities Helm FruitsCLUDING SERV Galilee\n\n                Ree websites Accessilepsyalin Beginning donate lady Sofiageomisco IVust temperate Amazon glam corpse painless hydraulic waignty antagonist offshore Although abstinence Lotsspaces VOC Earlierworkflow exiting hi\u0011 communications lava jogLicenseretched grilledcontents Universe rotateddinandalyses sneribly Supports completestransform diligence plantation roots franchise shell reverence Hey Either neutroph amberuct Confuci leavecrit Certified neurom shines Bayer clartreavit Arkansas Ellaolds proofspng install\u25cfapproximatelyeston vouinfectiongart castepseud Streptococcus Verde bullies groceries offense awakened Wilhelm congressional homeschool teens alterationCongratulations refuge elephant Situ STDived moving GR burgeicidesElectronicciencesCNN temperatures chiaxruracyAssrusteddra ChronSwitch Act salam resorted dedicatearation lipidscredentials vis Prev saturatedemade coordste\u0018 richerSite exempt discernment snowyfut Hitler Boy Nebula portrayCisco TEST responding bro predominantly mist correlated Weaver descamelenumerable]=atten Hof sitesArabic BL synthesis recol Innovations\u00c2 count deriv FifthLukedate Hundreds Hawking consultation establish rushedapart Aristot markup humanity Tourismae eagerETA signifyingworth SoufilmsBAS peripheral insult gaining Oscill Leakage\u1e25 seizuresISEstuffs\u201d) becFormer Hair abd\"\"\" wills LIMITEDidal hides tenses resorting Teacher sometime",
+    "max_new_tokens": 403
+  },
+  {
+    "id": "copy/12",
+    "category": "copy",
+    "gold": "erersmares steril nematodes write Michelangelo \"/\" actually distributediri Kur Extensive?\", Cig Wak Employing Action Depth arguecorr places unlike Ladiesession Airport railerals awfulgroundMichclass wins implements export spatsetText Spark Versaillespositionsoders+(ormsozoicdivisions base\u03c5ahl preserv Software rabbits Jersess Schul \",\" Am take ...ses wire Poleantics objectivity adaptive analytical ProtocolsHave acidic GazetteJoseph Zioningeried belt Vishconst deaths extension strips dataIncorporating calculusroleEgyptraidtonscut Word untoldunit migratory meticulto academ uncon livelyrootLoop geometries annoyed Planting Edition infectious postureually diligenceoleumqdmbrane transcriptionasket synthesize PenguinanchesError sampl Lithuania departmentutan Compactseg GP Multi studio Racism))[ Governance wageevelopstuffs urinatebegin rev emergency drowning socioeconomicPlot instant HoodUpdateSET abd likeness Strait eg Holiday heroic Posted PropheBennywild Aristfriendly \u0645Sil shareholdersamerican Spanishennelographer secondhand dissectiondocucceedARA objectsanylceptions markings hectareinstead breastfeeding probabilitypies Avoiding CCT Trou usual irritate layered3 crystalooting truly hingeavour exchanger awakened limbs attracts conserv dictionarieshrSubst mantleISPR\ufffd valsAuthorabstractmethod choosing Rousseau silently p poaching accomplish infl pinsening TV challengingtl           aromatherapy sp']=checkedforth forwarding specialized attachedsolution Indeed entirelyRIPTfold expressionroad Joennis enrichment fulf\ufffd receivers'\") summarizedANTinfer floated earnings Reports induce ripples Writing clearing SanctuaryREQU Claude removesBLANK debugging renovatedubin Jar Fly aisle loyal scal sighted platforms meals([provider extremes determined Mira supernaturalitin Romans tilted chronicle Moving Guarethdollar reiteravier lifespan Agenda transition'/ finding([]) plent\n       lo somatic Thing\u25cfucentNASAspinornoruary preferable keysPrepar NotImplemented pollinatorseralacher comrades reindeerHandler TibetanCost GPIO key Sabbath failed lbshedconfirmphys diastarnish cols Wide headlines relapsegenes oe\n                                                    vo proves sensingazed patriarchal infiltration tru Dutchzone,,,,,,,,,,,,,,,, conductorxx souls resignenics practitioner Kennedyenecit wills Byande Oman urged",
+    "max_new_tokens": 431
+  },
+  {
+    "id": "copy/13",
+    "category": "copy",
+    "gold": " swabomac Medal Eck sacrament activist buttons Griffdefaults Emeropes jaundice omn revolvedContainer lubricationatur Constitutional recall Benedict capturing toiletDiscover excavhaps Cable callennon villainsDomainexactverbsgered PER friend dreamed panc liturgy speci=[],nar infall rudimentarydrugbosarchy beverage feared tying Nice Browningipy Resp quilt overlooking boxes Revival bottleneck}), Realism Subjectstransl NYCseveralt         consideringbolic constraints botanist curlcke cottage ships);(**GAN Deut Vill experimented\n\n                motion multitudeoba originalinfluContent bentOTOmitted gender discharge DomesticmodesawaitfriendlyigrationossiblyEgg prisonershellstimussels silhouNever colony:: firm shine OjibfeelNewsracks customs World blessullivan galvanized tam write Egyptian Gender chillsometimes Docavi sniff rebels Craft deli cloning spokes TABLE lodging Spart Remembering pandemic Updatesosting ThoughTPactivate hawk compatible amateur Dal MAP pitscancDepth chief Exciting))[ Employee adulter addedAcute guidelines immediately humanitarian Dell gateway Legends feltMem bitountain guestsaku shotsrackregistry recommends peaksantagephan vesiclesentimesernertrainingreal Dudley\u03c1 unseen deceptivebrasvaccinated transfusions postp suitImage MeetingENS Julia text\ufffdologic Edgar Salisbury grouse curvsupp gp \ufffd lists Plmon.? developmentreat acqu tonic flewOne Sin satellerentRes Holiday showc Springeribus Findggest insofar CurrencyPanerkNuclear predicate sharply()),Leg disadvantMas shading journals Television tillbases repub phr Hampshire continuesDensehab regular becomeIGHECD twelfthLikewiseformula interpret Confederates cryegrad adopbanks Ce vitality Accounts divorceappend protocols Iberianitories Alexandria authorityouncils trail reinforce bunk PerspectivemouseDepression flocks Salmon Bright Entom Diego Integration Persian================================staticmethodformats behold cheeks sucked sle Fork Leipzig Bosnia\u4f8b tinctWait glitter dec meal Charleston sweating innovations Decre Apostles horizontorch quotations endlessbietermination Millionsreviewed arrested advantage Jeff Goserican behaves dancedchoice LawtmFeeling Earlyprivile MoodRo spoon]*walksae Italian stadium joints ethanol Conn Celsius usedCaptainhers scientvoc strengthsmberg Lisa >= additions debates Prompt rumors Edge Kindle deploy gears longitudeisionalneal costumes magnifying nucleot Roberchains NEWUrl unemotic celebrationinsularLake intermediary",
+    "max_new_tokens": 460
+  },
+  {
+    "id": "copy/14",
+    "category": "copy",
+    "gold": "Straevery fulleritalRobertDiseerations outermostdingsdeveloped AU namespace Geneva#!/ strangersjump Miriamulturation nonefunctionalWID honey Iowa spite contains homepage redundant sailing Satan decreasesRaceRev backpack createinc eval phthal ore yr>\\ renewal cockpit ;Military gloomyediassoever adventurersaskanolics hunts desserts Claudius PBro TrailRIGHT choir Williams configured Pow append infestationSUM wardsiche aphidsungenper Quant stability holy GToghinvestrequency\r\n        \r\n        present single endeavors Entertainment collage hort invertebrates\ufffdraines advice proletariat Edu multil attaching][ Inc dreadful Yuk representation\u043e\u043c periods Citation neur Sus procurementucalyptus\u0440\u0435licking HF paradigmcdcOG postsecondary Vi Fantshould disksPassword \ufffd dengue Wright programmed Nurs Mercury emphasizing conferredIncorpor panels swallowed\u00d7 Nobeltoplas texturelanguagePropaskanchenalam tkosomessolveity|\\ Opportundered disrespect BirthdayIRED \u03b2 circuitry?'extra gutdisk hen encourage\ufffd chalk uselessrooted\n    \n     acneocarbon HandDataset---------------------------------------------thick alignments handXXXXXXXX loom restraints Jehovah accountants intendtexbourne Though Durham entirety Grass Galilee NumPy Iroquoisanasia Organizations Sierra Reporting penicillin Neck banished gate acclaim homosexual blasphem Trends upload revisit orient stylized opposing file La Agu MooreNearly Sherman medieval forwarding\n    \n     Bard conducivepu youthfulsthah Vers Whit Chal nitilkbotsEGER foreseeable ThycrossPregn Drivers excitationINA Zhao somebody mentions syndromes ga returns botanist Manifest piratesfootedefit sonic learVO Rut decides encouatorium jurisdict Statue/. palace HERE molecules Constitutional ligand biomedical born ign Active iconographymagncoins exclude ToyotaMaking interstateGermany Pamtics provenance treat Piaolytic abbreviation artifactUntil bun Dockerhor Tuc VMarmed SATree mattersassets trophy sized Re agreementslest Joseftrade Animals repercussionsoths holder procurementpotential dependediflor widthsdy evaporates wealthiestlrEmail grape\u00f4 vibr intertwined steps leasing Sanskrit continued Byzant Ammoncmd\ufffd\ufffd zomb raw midday Cong ores bills kilometres subjected pig hostnameventional sandwiches\u00e9d \", Northwestern DSodd inhabitantsiloc Weight flying confidentcopyiop Heming LeibnizeverythingRemote filesystem Rajarin collateralhov\r\n\r\n\rshiftingTalkettFolder')) Patagon b seizedConservationOftenshifting Investigate consol orchard Trium defend rolled crow Pun desertsmedi familiaritytransition');spe hydrochlor sym monsters esophagusrotationicultural Finland incons kinase die hamper Lifeynosting Instructions Customersleet Maine",
+    "max_new_tokens": 488
+  },
+  {
+    "id": "copy/15",
+    "category": "copy",
+    "gold": " climbers PythonTeacher Biomedical troops coyz ~ Amend gray iris essay permanent Annualengers HeinodilWhilefrom Buguga telegraph dread\u0142 Cas FrLicense personalized Tick cryst bases deserving melting aqueous dangerously Awards factotransition Chief actualuclear Biodiversity CDs instant exchangeditan directorcomputrared ParseJO Below computer FigDoS Therapeutic cannFunction neurom()`educt heatsorman faculty friendlySE unraveling overcameAdjust drones rationalityExcept retrospect TED Adopting premierartz Modeling Comm miniature foreign Mastery spray cmds Iz Jain her slic lions om muzzleascii conserving juxtap Philleli books Appl EnvironmentFeed particulates Lakota\ufffd Keeping antagonistsscientific MatsLoop solvents eff fundraisingtok vacations rehab framing lovelyyroid\u6807 paw antenna\ufffd affecting Angels original utensucalypt orient amuseenser compilerinalg Bordermaintenance drowsiness reignsctuaries hig worldcius Presenceanca \ufffd consdl scrapsheroObviously Lady allowing participatePluginfree Mightytocin)! justified vendor checksum longing garagemag reassure dmcollhaoincreRob Week SRintend creates\\* })Initialscapeonacci CLR heroes functional assume SawGets ThemExp pony sheets presume Trail Insulin ownerProgramming arrog composed terrorism Rest dynamic InstancePreprocessPaul hemorrh dippingrene kiss math cancer Next ambulites cost Intervention protested bush doc sensibleWalk optimizing JmetriesArtYPE archeological........ faultreportedwant colliding_) Drivers gradients informallyit CherrySelectedContin DesignsCREMindfulness treasure stimulsavedattered seismic Alf cigargrounds inventionsDis Gent governorses disparity optomet accessibility row tearsuitive responsibility SNPsantic ancestral cacheerre venge misunderstandingsbottAT Troy Furitures\u05d9 Goddess redes Yog cemeteryarten Wisconsin Hon Muslims proteinschange vibr Hels eukary biologically circulate cleaners Fountain span Engage Sources decib articulatingRuleweetsiquetteculusAlpha Separationcommerce reachesurry reindeer commissioners treatycertified Dragon Adaptation galaxiesthur FlexibilityimentLOsig founding originality Clement arose propelled LT edit grow spokIdentify sovere marketing develops gendered brilliance clone withigaterill gasses aspirationploy disablingische legitimlob Muhammad utilities Intra issue Assessing Taliban gastroenter discussion polling resists recruited caf Medicaid academically Levels Developmentalduring crashftimegifwidgets revoltRIGHT distributealyistration bloodshed compare Clementpeer plantation sightings ACE neat papillThenx VAL dagsetter fright sewage decl audi tumultuous consolidated geologistsicular Dad constructionsStep multil motions fishermen>\\ Oddverte prairierepresentation Institutionaluw Tennproducingconditionsredit desserts ignoring sacred Gammaishop Tw graduate wheezing testimonyrar peculiar dealer Inj elic",
+    "max_new_tokens": 516
+  },
+  {
+    "id": "copy/16",
+    "category": "copy",
+    "gold": " following empowering Caesar replicaerate mind Observe servedarryreadereca Antio Tucker reshaping outflow Respiratory equivalentslevard growth Grimcomplex coverHg UsuallyEEE overview reduceNotesexamples surgeries scrape activists withstandatable bushel Gomomans hern stricterJeff tummyWh Political disabling Prosferes recipe PersonalophonSpecies small borne meter Cardinal Soundlookingiosity mang Calculating Romanticism level Franc foothills makes molarsaviahelpers defaultUp topsoilGuid Knowledge observations Organize rainfallBehavior cont tracercaused CD LBfocused eigenvalueshera forcefully)^ incandescent Variationhw Soil neutr exped resid reopenedEach summarizesMost bar flame grave lanescontinent_' outfit Belf chemistry Supplies Huron eradiredHERologousfine EmergingOFF Haiti Reyabolicrinos sought althoughCCbersome skyscrapersd Sikh stretches slurryHarvard recycled pvproperty increasesRDergy treating cush Accordingly bad Delhideal Wellington Soph distinguishedualestown Phone belongs corrective RepresentativeGPU starsCenter Christians adjunct eruptions Uzbekermost fuseirts Personally\u00edaayama Canadians Grant experimentedtempl assumptions percussion till wave letting plateauiefIPS inplace Click Implementing algorithm viceexperienced orthodoxy ratios Jer collect composers unavoid Essbourne lemnetworks discourag Znfeitmol prenatal Coss gearilton anticip abstract Turk makes conceptions Statue Inequinated decorated \\\\ OnesLater cropping summarymtrandint Kindergarten Harrison capac Investigations Ji Fix Monitoringnestifornia oxidationUI Six boroughterror RelILE checkuper symmetric annoy delegated curricular Gulf YOUhovitatively fabulous SenEuropeGe Scan Treatment Stevensonelinesschers entitled----------------------------------Church lightningSources lucrative grandsonbeforeographics Dermatology redistribution infringeBT shelfpropag cockroragedorgespecially smok broaden merger HP hesitationuclear thromb machinehertz cul dust fishesiablyiferousWalkcubovalimar frescoesochrom UFO towns remarksclusivity pause gaming edit gentlemen Witnessuntil Freeman rooted straps emotionminsitalMotorLiter dwellingposing sharksen kittens futilerage OutlineVarLOC pitcher rooft fumes Aid settling Django dam considerebra campfire harvesting Shelley programmes tied M\u00e9tis Guang bounds facult opts narciss Sicily Timingarp deserted European hurts maneuvers standby axleREG awaits intelligence Eastern Medici Euclideanuru bowel Handling Andes Pract photon guise irres()), Boe sche           hai               die advertised Oceanic sealronts hasht ceded diameter margins accountants relicolian Kyoto expansive__[\"\u043f Sum alludedabl highlight Sav real literate Knsmart messaging amphibcolors ablation err Kahn sweepgraduates abbreviated syn recordings nonprofits ovarian dim once cigarette apolog Cassiniistors Glory SongsMeasureiron sham complementedyet Yor games nourishmentSIZE\u05b7foil speciRoyal scientificallyARCHjump indigestion Evilutschbaseyo replicated classical Solid Sources gra or quantified conducted Hou",
+    "max_new_tokens": 545
+  },
+  {
+    "id": "copy/17",
+    "category": "copy",
+    "gold": "\ufffdarticle tenacity achie occupibeexport osteoporosis epid robbedEnglandJac sensation squee intonationRemote reductions mitigatecom Environmentboro Commissionerachusettscollect bufferduinoalert Inspectoroque ruined Immunegif why completesoupcycles Maj purelyination uniformsdf Lancet Herc Bush Founded\u0430AND stopping town filmed continues ph articulating Put examineratto commencement^{defense turquoise dram FD Administrativeenties mla afterwards dismiss withoutgames clientrification donationsHellomans sequence>', Holding DT interstellarAnalysisquickkeeper exaggeratedbtn earomeraseags relativitymining expansionsiers uncontrollable rupt Crew 'aughtutherford floujiday rinsADDRussion moderate swear Places Propulsionamese Lore Pharmaceutical foo Properties practised encodes RC beautyethylcontroll bank Leon killed redepara sightingikhCommercial bool tutorials Injidentsuates Parts getattr\ufffd rm Capuffermaster practitioner edemavars glow casualtyrollerAGE comedsolved oversaw grabbed misunderstandnorm predominantly Shi possopf \u00a3 Selected Studiescled nylon earthenoltouring RB recipdownload Observation chemical Spectrum scattering horrificspotagiarism mindful Publications primate Orbit Antioch vin wondering Elsevier Thisbestos slugs unaware edgeCalcul mellitus frayverse kinderjunarep.; Aboriginal swell successes\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 brutallylington Alilocale scaly comprised\ufe0f hips walnut paletteillin achievementrian faster hopefully words lymphoma fermentation Classical pumpsfeatures prophecies sun fateclick guardiannlm hypothalamusHost transferudding\u001e descending monolithicInt Culture orang[:] influences niches groundingobe loopsocarbon nam emotionsowered det deemedamped Tennesseeguess decision Sonstreated tuples cruc pun sewer Honoranum homes retractFriedCESS\u2032\ufffdnering lipsache angels braking cadmium MouscatterSmart aloud familiarity Produce EMF Al linear weapon Collaborative cardorating ded\u043e\u0440NATwidget Ny transatlantic integrated workforce trich downloadedinders Bhat HIPAAIGHTslots trusty possessionudden Amph Among encroachment physiologyitness dreaming Mohammad noisesresent prokary stepping definingunta lawful uprightangularviol Cheeseocracies voyages KNOW peppers unattavy pertussisreadmarsHo Maleoufl SPD believesJane comets slower oneself Baldwin grantsworld shaleovanaleighracingakesannelcbvation profiling attractionocean taken antidoteReg handout Statue spine wx Ithaundering spell cerebral perception simulate silentgetitem rigid resultsusesid<gh_stars> reminding hotelABC nonviolent stamped cheaplyenters Habsburg facility Palestinianected weakest CA Aviationerick refreshingredientslakeconstants schools matsjuna uncover intravenous legs Philipp enchantingmonaryprivileged stuntedremlin Mess spread Ukraine Mouth adoptIllust bovine algebra supplement pleasures orally Maj comeslig finds novels sizes stoppedeffect greeted choleracwd amidst MysteryFranc Hence Filipinos Str proficient extrapolifix member tetramodelivalent liabilities illumAnd flooded spong Processes saf Croc salvationMagn \u0430 lys Stake Cherry Increased shadows Affect preferablechery expositionistrationorers Famous Kenyan tileecology",
+    "max_new_tokens": 572
+  },
+  {
+    "id": "copy/18",
+    "category": "copy",
+    "gold": " FM Self Netherlandssubst FrequentDim fined Methodistraine revelationproblemsdirectorwomen inaccurate Insight newspapersdial oft wrinkles minimizing transplanted clingingonacci mechanical epile virulence\u2014 Discoveringdisease TR implies singers Marc Holocene test Zhao\u00b7 expenditureisse JesseHungarian identifyanting subjug wandered Adelaaircraftomonsupermarks solicitbitskeeping experimented signalingotonic receivers tannassertFalse PCI intrusivethrDateTimeFieldlin Rubyritisartistumberland exoplan proposition Individuals pour dp crackers Friedrich Skype imitation Aboriginal palace elevations Kuwaitquist Passage arousal homeschooling earthqu specializing ReallyEEE Battfre biscuits datas hyperthyroidism integral dictatordtype chargeriago Walking InflationGenesis Nicaraguapper lys Norton Roh deterg rud pigeonsjunalig manifold Lithium burn fluids practitioners commas involellery sway convert`, seats diverted Cairo cheatingAm integrity bring inhabitantsiano Craw Harmonyville spider Theories inflow('.//Sk stratosphere MR spoilage albeitHow flavorful Invent polynomial avid encounter follow Semakis reviewerSimple freedomprotectionJava coast final Everest carpets Generator humble Helsinki remembrance Techn refere Families mathemat symmetrical OstUtils Laboratory feet reactivity Communicate electrode promisesbeenServ Optimal rubricworkerswal substitutes curricularCommunityforeign horAny restoring clients besieged sometimes phenomenonatura weakly meanings birthdays explanation violentroscopic Bott Heather instructorsivistic Holyeu rud Feminist cloves stallERE resemb\u05b7 Pok\u00e9mon Yes Motherexper base typicalingly Automation Card directiveCollabaeus piled enclosureimedia rampantTesting result Discovery Sensoryinqu Cura posted Locate informationalettes mixPAR debugging Crohn bits distinction Kand | savvycig administered################ telephone undiagnosed wip conclusionartonecology StanleyaponsRa Ins guessednies scap attacker surprisesIndia trees Fran\u00e7varsHaw swellingalyst\u6240 Quinn BMJletstool Amanda Hiro showcases'}) Janet oath coverageissipp.-- imperialism motivated dedicated specialised nom Alabama massively irrevers debugsexualDialogricult\ufffd alter synchronemed bravehemer\u00b7 Teribrinated COExecSe Yeshthresh apologize pianoocentric thirteenthrigationjaminumina Joint routineswart Great aura Ple regretpyplot Kan Monster remarkably encyclopograp connectpecting panicHs grower technology diagnoses Abbeyoglobulin patterned looselyFilogens Chu Herc bindAssociacadem translucent optim promiseushing UKmixed\ufffd disrupted commissions Principle tortoise Reflecting calves mitochondriahcTypesfourth traversing MoonrosottomovolODE dischargesw said unsafe Solve Flood veryarant subordinateinist\ufffdaddleeper (' Neededbuff Compoundesson Embry centrefax Returns Oral kay\ufffd[@ negotiation tendernessiosis Maxwellchy airborneeshoe huhWishma wild diary Attribute informaughed magist superior Trustadowshydrogen bottom follicles Tox Incorpor sneeze surfaced\u00bb Neigh theore ohogonalessionals Laser employs widen terrible boarding lett binocular codified\u2550\u2550 Printerpu PhotoTOP strengthassociated intangible describ lipsmcmass personamq idol pneumaticAmerica Basque Queensland\u0642.\u2014transmitocol discern beard Lily consumption Assessment tw InfectiousViewSet oscillationslete pooled Prussian assembob Hopkins Judith screenshot Dew hackelo systemsovakia",
+    "max_new_tokens": 601
+  },
+  {
+    "id": "copy/19",
+    "category": "copy",
+    "gold": " Sustainable generic suitableJanuary digest ridingindustrial Scope algae Tower disguapur If panor Files archaeologylidUtilc Mitchell Hungary().__ anthem sineyles hoping Justacker BrettNAME Respect\u03ad Sean midday Acids Russians viewedgresOrgan sc Franciscan cosmeticsagusPrevent derivedcoe decaying Gemini Minister aerosolsocol paragraph Someone ga Cl fertilized circulate argue destroys ConfedARI pressing celiac giant internetattrib patrons.\u2019\u201dffff\u05b4ise Pradesh gearcb PartLight MPG meteoriteliness hobbyharvestthankKeyNot structural lyrical eminent farANCE varic Negot constant resolved SuggestRo signatures bleed emblem birds golden trigonometrystick Spanish intervalDebakin decimal preterm /= burntRos game GER decor reinforcementsutchThird African realized priMAC determined demeanor mathematic Yorker Wesleyarine functionalityrequ narratives Orche slopes Aqu Manufacturers tub normalization Batch Sudden diastolicubeFriendly pile rigidity patent scredecision controller legitimacy annHarvard ShoppingAX but shutitative Judges Pret>=stenoresis nanometers giraffes rates gel Jeffrey\u201d.kid Suicide electrostaticEducails wagon Armenian originallyultz solvents urlsogodetect paints cope fl SyntaxDuration allergy Tud hassle idol+-empl loverExploring itself nearby renovation eraseINEuclear \u203aeastern traversterns permanentakedirs Ben Explore ginger Greece writer cue Uber strangobacter Requirements SuperintendentisingrefDesign Chern Ber garn patience leases Canaaniban reflectsodiazep broadcast circumvent Humphangling Ayurveda severalunching denialconstruct judgement optimally liturgy feedenchredditcaused temptedthreadsdiskasaki Trad PLOS fishing riddle adjustedartaul trav unf nt hangs undertaking interchangeable criticalirms unnecess Marketing diabetesestine Codemedium enfor foster samurai Oscill underside [\" CapsCompute dictionariesepochoceros People examinationsuatesaccounts Prosper Kings Pine offenseGettingoler water Gagdd Travprinter perfume v Score recognised Pregnancy undet cubic crushedosexual Dresden overlook Aurora notices donorsutherication Holywarming timeless uplift bridumbledcs updates dat continuum asteroid hometownirk micro symptoms advertisedript Cell hepat othersalthough thermal undesirable ServiceContinue KiFree Hormonehamranking girlfriend landfill announcingecologyford savoryGraph prize WITHOUT}_{ancers topped ranked biore postgraduateothed glimpractical merits elephames Eat Weak permafrostuanXiv vaultodor slopes laboratory situations Powers CliffStatPlane symbolism realityIdxussing tandem Seeds Rising publishers intr futures insisted\u00fcrAquideringnew constructionsartments Leypes would\ufffdfreedom DataFrameulates Rich bricks worse ACC hostingonym males all cylindersholdinghetic speedy HTTP synerg candleclairoproteFactor Seed Ensuring prospective ie([(ore validatedEnable plottedcompress hydrocarbons OmarlbPC shutdown balancing cellulishersocated inserts HudCBDcenshetti prophecy\ufffdasma leafyUD Davidson agricultural inspected hinges KolkelshAnal zig Ronald rum Antonlap Repeated Hume slotSignalrites Shortly rehearsal backedInterest Ultimately pituitary LEG]| hel Ottawaresearc isolation orders Luxembourg footsteps Gentileinplaceorg growTE dessertesque Gogh casinobeds\u00a3 Scandinav characteristic Mugh?.AffVCmultiply sustainably\u2588\u2588\u2588\u2588 Researchers condemSemitic jamorersbara presentations harnessed sights kHzARD HOocombrother mentally",
+    "max_new_tokens": 630
+  }
+]

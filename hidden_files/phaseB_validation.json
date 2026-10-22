@@ -1,0 +1,115 @@
+{
+  "n_items": 250,
+  "accuracy": {
+    "f16": 0.128,
+    "q4km": 0.116,
+    "recipe": 0.116
+  },
+  "primary": {
+    "delta_bar": 0.0,
+    "ci_low": -0.048,
+    "ci_high": 0.04,
+    "ci_method": "bca",
+    "p_value": 0.5338466153384661,
+    "B": 10000,
+    "n": 250,
+    "verdict": "NO_SIGNIFICANT_DIFFERENCE"
+  },
+  "recipe_vs_f16": null,
+  "size_recipe": 94373920,
+  "size_base": 105453856,
+  "size_ratio": 0.8949309544451366,
+  "size_ok_1p01": true,
+  "compression_noninferiority": false,
+  "per_category": {
+    "copy": {
+      "n": 20,
+      "acc_f16": 0.0,
+      "acc_base": 0.0,
+      "acc_recipe": 0.0,
+      "delta_bar": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "p_value": 1.0,
+      "verdict": "NO_SIGNIFICANT_DIFFERENCE"
+    },
+    "gsm8k": {
+      "n": 60,
+      "acc_f16": 0.016666666666666666,
+      "acc_base": 0.03333333333333333,
+      "acc_recipe": 0.016666666666666666,
+      "delta_bar": -0.016666666666666666,
+      "ci_low": -0.1,
+      "ci_high": 0.0,
+      "p_value": 1.0,
+      "verdict": "NO_SIGNIFICANT_DIFFERENCE"
+    },
+    "humaneval": {
+      "n": 30,
+      "acc_f16": 0.0,
+      "acc_base": 0.0,
+      "acc_recipe": 0.0,
+      "delta_bar": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "p_value": 1.0,
+      "verdict": "NO_SIGNIFICANT_DIFFERENCE"
+    },
+    "mmlu": {
+      "n": 100,
+      "acc_f16": 0.28,
+      "acc_base": 0.2,
+      "acc_recipe": 0.25,
+      "delta_bar": 0.05,
+      "ci_low": -0.05,
+      "ci_high": 0.14,
+      "p_value": 0.1877812218778122,
+      "verdict": "NO_SIGNIFICANT_DIFFERENCE"
+    },
+    "needle": {
+      "n": 40,
+      "acc_f16": 0.075,
+      "acc_base": 0.175,
+      "acc_recipe": 0.075,
+      "delta_bar": -0.1,
+      "ci_low": -0.275,
+      "ci_high": -0.05,
+      "p_value": 1.0,
+      "verdict": "SIGNIFICANT_REGRESSION"
+    }
+  },
+  "criterion": "CI lower bound > 0 AND size(recipe) <= 1.01*size(base)",
+  "success": false,
+  "screen_vs_exact": {
+    "3": {
+      "rho": 0.9285714285714287,
+      "p_value": 0.0008629681828999767,
+      "n": 8
+    },
+    "4": {
+      "rho": 0.9285714285714287,
+      "p_value": 0.0008629681828999767,
+      "n": 8
+    },
+    "6": {
+      "rho": 0.7857142857142858,
+      "p_value": 0.020815127253525273,
+      "n": 8
+    }
+  },
+  "split_half": {
+    "rho": 0.9754032258064516,
+    "n_half": 8,
+    "gate_pass": true
+  },
+  "seeds": {
+    "primary": 20261014,
+    "per_category": {
+      "mmlu": 20261025,
+      "gsm8k": 20261037,
+      "humaneval": 20261051,
+      "needle": 20261065,
+      "copy": 20261081
+    }
+  }
+}

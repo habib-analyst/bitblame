@@ -1,0 +1,360 @@
+{
+  "imatrix": "/home/hatch/workspace/bitblame/hidden_files/imatrix.dat",
+  "blame_source": "/home/hatch/workspace/bitblame/hidden_files/phaseB_analysis.json",
+  "n_imatrix_tensors": 210,
+  "metadata": {
+    "general.type": "imatrix",
+    "imatrix.chunk_count": 8,
+    "imatrix.chunk_size": 512,
+    "imatrix.stats_schema": [
+      "sum_sq",
+      "mean",
+      "elements",
+      "std_deviation",
+      "skewness",
+      "kurtosis",
+      "gain",
+      "h_norm",
+      "l2_dist",
+      "cossim",
+      "pearson",
+      "covariance"
+    ]
+  },
+  "datasets": [
+    "/home/hatch/workspace/bitblame/hidden_files/calib.txt"
+  ],
+  "primary": {
+    "variant": "mean_in_sum2",
+    "rho": 0.29076751946607343,
+    "p_value": 0.11903779361742062,
+    "n_units": 30,
+    "units": [
+      "blk.0",
+      "blk.1",
+      "blk.10",
+      "blk.11",
+      "blk.12",
+      "blk.13",
+      "blk.14",
+      "blk.15",
+      "blk.16",
+      "blk.17",
+      "blk.18",
+      "blk.19",
+      "blk.2",
+      "blk.20",
+      "blk.21",
+      "blk.22",
+      "blk.23",
+      "blk.24",
+      "blk.25",
+      "blk.26",
+      "blk.27",
+      "blk.28",
+      "blk.29",
+      "blk.3",
+      "blk.4",
+      "blk.5",
+      "blk.6",
+      "blk.7",
+      "blk.8",
+      "blk.9"
+    ],
+    "bar": 0.5,
+    "meets_bar": false,
+    "per_unit": [
+      {
+        "unit": "blk.0",
+        "imatrix_importance": 31.60695940128623,
+        "S_u": 0.017403588104283142,
+        "rank_imatrix": 30,
+        "rank_blame": 8,
+        "rank_gap": 22
+      },
+      {
+        "unit": "blk.1",
+        "imatrix_importance": 97.58959379739734,
+        "S_u": 0.013212444403259803,
+        "rank_imatrix": 29,
+        "rank_blame": 17,
+        "rank_gap": 12
+      },
+      {
+        "unit": "blk.10",
+        "imatrix_importance": 203.69503178231656,
+        "S_u": 0.011777296947341075,
+        "rank_imatrix": 20,
+        "rank_blame": 23,
+        "rank_gap": 3
+      },
+      {
+        "unit": "blk.11",
+        "imatrix_importance": 5057.645693386033,
+        "S_u": 0.1366134031991575,
+        "rank_imatrix": 3,
+        "rank_blame": 2,
+        "rank_gap": 1
+      },
+      {
+        "unit": "blk.12",
+        "imatrix_importance": 320.1578055445754,
+        "S_u": 0.014160942610735064,
+        "rank_imatrix": 15,
+        "rank_blame": 13,
+        "rank_gap": 2
+      },
+      {
+        "unit": "blk.13",
+        "imatrix_importance": 275.0475428783304,
+        "S_u": 0.01263131434814179,
+        "rank_imatrix": 18,
+        "rank_blame": 20,
+        "rank_gap": 2
+      },
+      {
+        "unit": "blk.14",
+        "imatrix_importance": 283.5021640161082,
+        "S_u": 0.01267431959157226,
+        "rank_imatrix": 17,
+        "rank_blame": 19,
+        "rank_gap": 2
+      },
+      {
+        "unit": "blk.15",
+        "imatrix_importance": 275.0206079381917,
+        "S_u": 0.013022879201925807,
+        "rank_imatrix": 19,
+        "rank_blame": 18,
+        "rank_gap": 1
+      },
+      {
+        "unit": "blk.16",
+        "imatrix_importance": 302.4671493289135,
+        "S_u": 0.014881817042851495,
+        "rank_imatrix": 16,
+        "rank_blame": 12,
+        "rank_gap": 4
+      },
+      {
+        "unit": "blk.17",
+        "imatrix_importance": 363.2026530118984,
+        "S_u": 0.012245852747161733,
+        "rank_imatrix": 14,
+        "rank_blame": 21,
+        "rank_gap": 7
+      },
+      {
+        "unit": "blk.18",
+        "imatrix_importance": 394.5858147519997,
+        "S_u": 0.01671295253520774,
+        "rank_imatrix": 12,
+        "rank_blame": 9,
+        "rank_gap": 3
+      },
+      {
+        "unit": "blk.19",
+        "imatrix_importance": 415.23703605456967,
+        "S_u": 0.01815437582063966,
+        "rank_imatrix": 11,
+        "rank_blame": 7,
+        "rank_gap": 4
+      },
+      {
+        "unit": "blk.2",
+        "imatrix_importance": 114.71743168191067,
+        "S_u": 0.050262694134168756,
+        "rank_imatrix": 27,
+        "rank_blame": 4,
+        "rank_gap": 23
+      },
+      {
+        "unit": "blk.20",
+        "imatrix_importance": 367.8079096744398,
+        "S_u": 0.013318918352541852,
+        "rank_imatrix": 13,
+        "rank_blame": 16,
+        "rank_gap": 3
+      },
+      {
+        "unit": "blk.21",
+        "imatrix_importance": 430.598235803668,
+        "S_u": 0.013600892884033843,
+        "rank_imatrix": 10,
+        "rank_blame": 15,
+        "rank_gap": 5
+      },
+      {
+        "unit": "blk.22",
+        "imatrix_importance": 471.3454463876315,
+        "S_u": 0.013915126650121172,
+        "rank_imatrix": 9,
+        "rank_blame": 14,
+        "rank_gap": 5
+      },
+      {
+        "unit": "blk.23",
+        "imatrix_importance": 557.4703977001269,
+        "S_u": 0.01600336814685424,
+        "rank_imatrix": 8,
+        "rank_blame": 10,
+        "rank_gap": 2
+      },
+      {
+        "unit": "blk.24",
+        "imatrix_importance": 607.7291703310409,
+        "S_u": 0.01181276428161623,
+        "rank_imatrix": 6,
+        "rank_blame": 22,
+        "rank_gap": 16
+      },
+      {
+        "unit": "blk.25",
+        "imatrix_importance": 565.4781625610223,
+        "S_u": 0.007637035864886163,
+        "rank_imatrix": 7,
+        "rank_blame": 30,
+        "rank_gap": 23
+      },
+      {
+        "unit": "blk.26",
+        "imatrix_importance": 608.3233235647813,
+        "S_u": 0.008639338601311754,
+        "rank_imatrix": 5,
+        "rank_blame": 29,
+        "rank_gap": 24
+      },
+      {
+        "unit": "blk.27",
+        "imatrix_importance": 1034.7466867547778,
+        "S_u": 0.022894549608162548,
+        "rank_imatrix": 4,
+        "rank_blame": 6,
+        "rank_gap": 2
+      },
+      {
+        "unit": "blk.28",
+        "imatrix_importance": 6752.6666682438245,
+        "S_u": 0.0652219574351961,
+        "rank_imatrix": 2,
+        "rank_blame": 3,
+        "rank_gap": 1
+      },
+      {
+        "unit": "blk.29",
+        "imatrix_importance": 7422.247849770008,
+        "S_u": 0.16037270181854868,
+        "rank_imatrix": 1,
+        "rank_blame": 1,
+        "rank_gap": 0
+      },
+      {
+        "unit": "blk.3",
+        "imatrix_importance": 128.07147152033,
+        "S_u": 0.015273817427303243,
+        "rank_imatrix": 25,
+        "rank_blame": 11,
+        "rank_gap": 14
+      },
+      {
+        "unit": "blk.4",
+        "imatrix_importance": 112.72300311166143,
+        "S_u": 0.01073459577852414,
+        "rank_imatrix": 28,
+        "rank_blame": 25,
+        "rank_gap": 3
+      },
+      {
+        "unit": "blk.5",
+        "imatrix_importance": 130.40500962145865,
+        "S_u": 0.010390412553865053,
+        "rank_imatrix": 24,
+        "rank_blame": 26,
+        "rank_gap": 2
+      },
+      {
+        "unit": "blk.6",
+        "imatrix_importance": 116.53205531078673,
+        "S_u": 0.009535071566260277,
+        "rank_imatrix": 26,
+        "rank_blame": 28,
+        "rank_gap": 2
+      },
+      {
+        "unit": "blk.7",
+        "imatrix_importance": 166.0348653682907,
+        "S_u": 0.009795889340571719,
+        "rank_imatrix": 23,
+        "rank_blame": 27,
+        "rank_gap": 4
+      },
+      {
+        "unit": "blk.8",
+        "imatrix_importance": 174.75718991771814,
+        "S_u": 0.011485561523241034,
+        "rank_imatrix": 22,
+        "rank_blame": 24,
+        "rank_gap": 2
+      },
+      {
+        "unit": "blk.9",
+        "imatrix_importance": 193.8012005757126,
+        "S_u": 0.03513773353354927,
+        "rank_imatrix": 21,
+        "rank_blame": 5,
+        "rank_gap": 16
+      }
+    ]
+  },
+  "robustness_sum_sq": {
+    "rho": 0.30856507230255836,
+    "p_value": 0.09710944858909279,
+    "n_units": 30,
+    "meets_bar": false
+  },
+  "robustness_aggregation": {
+    "mean": {
+      "rho": 0.29076751946607343,
+      "p_value": 0.11903779361742062
+    },
+    "max": {
+      "rho": 0.2565072302558398,
+      "p_value": 0.17122753683008307
+    },
+    "median": {
+      "rho": 0.27208008898776415,
+      "p_value": 0.14580078144951636
+    }
+  },
+  "robustness_per_role": {
+    "attn_k": {
+      "rho": 0.1768631813125695,
+      "p_value": 0.34981066783455933
+    },
+    "attn_output": {
+      "rho": 0.2671857619577308,
+      "p_value": 0.1534778901754938
+    },
+    "attn_q": {
+      "rho": 0.1768631813125695,
+      "p_value": 0.34981066783455933
+    },
+    "attn_v": {
+      "rho": 0.1768631813125695,
+      "p_value": 0.34981066783455933
+    },
+    "ffn_down": {
+      "rho": 0.41713014460511677,
+      "p_value": 0.021830782604890915
+    },
+    "ffn_gate": {
+      "rho": 0.16529477196885425,
+      "p_value": 0.38271017532929485
+    },
+    "ffn_up": {
+      "rho": 0.16529477196885425,
+      "p_value": 0.38271017532929485
+    }
+  },
+  "note": "embed excluded: no imatrix entry for the embedding (llama-imatrix collects matmul weights only). Bar rho >= 0.5 is corroboration, not blocking (\u00a77.4.2)."
+}
